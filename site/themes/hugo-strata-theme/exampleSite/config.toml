@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://example.org/"
 languageCode = "en-us"
 title = "Strata"
 theme = "hugo-strata-theme"
@@ -140,11 +140,6 @@ paginate = 10
 	name = "Home"
 	url  = "/"
 	weight = 10
-
-[[menu.main]]
-  name = "About"
-  url  = "about"
-  weight = 5
 
 [[menu.main]]
 	name = "Blog"

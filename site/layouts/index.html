@@ -1,9 +1,17 @@
 {{ define "main" }}
+	{{ if not .Site.Params.about.hide }}
+		{{ partial "about" . }}
+	{{ end }}
 
-<h1>Hugo with Webpack, Sass, and PostCSS</h1>
+	{{ if not .Site.Params.portfolio.hide }}
+		{{ partial "portfolio" . }}
+	{{ end }}
 
-<h3>Hooray 🎉 - you've built this with <a href="https://github.com/netlify/victor-hugo">Victor-Hugo</a>!</h3>
+	{{ if not .Site.Params.recentposts.hide }}
+		{{ partial "recent-posts" . }}
+	{{ end }}
 
-<a href="{{ "/tech" | relURL }}">Check out the tech</a>
-
+	{{ if not .Site.Params.contact.hide }}
+		{{ partial "contact" . }}
+	{{ end }}
 {{ end }}
