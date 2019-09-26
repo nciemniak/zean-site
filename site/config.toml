@@ -1,152 +1,46 @@
-baseurl = "/"
+baseURL = "/"
 languageCode = "en-us"
-title = "Strata"
-theme = "hugo-strata-theme"
-disqusShortname = "spf13"
-# Enable Google Analytics by inserting your tracking code
-googleAnalytics = ""
-# Define how many posts should appear on a site
-paginate = 10
+title = "My Portfolio Website"
+theme = "hugo-lodi-theme"
+googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params]
-	# To provide some metadata for search engines feel free to add a few
-    # information about you and your website.
-	name = "Your name"
-	description = "Describe your website"
+    theme_color = "#574CDD"
+    description = "Portfolio of Alexis Collado, UX Designer"
+    description_photo = "portfolio.jpg"
+    favicon = "favicon.png"
+    logo = "logo.png"
+    email = "myemail@gmail.com"
+    facebook = "lex.collado"
+    twitter = "lexiscollado"
+    dribbble = "alexiscollado"
+    linkedin = "https://www.linkedin.com/in/alexander-hans-collado-jr-9444146a"
+    medium = "ahvccollado"
+    github = "github"
+    googlescholar = "https://scholar.google.com/citations?user=XXXXXXXXXXXXXXXXXXXXX=en"
 
-	# Format dates with Go's time formatting
-	date_format = "2006-01-02"
+[params.nav]
+    enable = true
 
-	# Add read time estimates in the format "X min read"
-	show_read_time = false
+[params.hero]
+    enable = true
+    avatar = "avatar.jpg"
+    subtitle = "Welcome! Bienvenu! Annie Zean Dunbar is a Liberian-American writer, educator, and social worker living in Chicago, IL."
+    hero_right = ["**Annie Zean Dunbar is an educator and social worker, and has worked in multicultural communities as a program manager, survey researcher, and case manager.**",
+                  "Her research interests include race and identity formation, trauma and reconciliation, secondary migration, and long term refugee and migrant resettlement in the United States.  Zean’s creative writing centers community conceptions of truth and omission, the liminal space between understanding self and others, and an examination of memory. She is a cofounder of Connect-the- Dots, an arts based organization focused on examining social constructs and human connection. Zean is a graduate from the Social Service Administration at the University of Chicago with a program of study in International Social Welfare. Annie Zean is a 2014 Fellow of the Pozen Family Center for Human Rights at the University of Chicago, and holds certificate in Forced Migration from Center for Refugee Studies at York University and Refugee Protection and the Rights and Process of (Re)Settlement through the Center for Forced Migration Studies. As a Human Rights Fellow for the Pozen Family Center for Human Rights, Annie Zean was deployed to Monrovia, Liberia during the summer of 2014.  Her fellowship was designed to educate women in Monrovia on the upcoming election and improve voter registration and participation.  Because of the Ebola outbreak, she was reassigned to the Social Mobilization team to survey community members on their understanding of the Ebola risks and provide outreach and education to community members to improve compliance with public health directives. She is the Social Media Lead for the Emerging Scholars and Practitioner on Migration Issues (ESPMI) Network. Zean would describe herself as a post-goth black woman, perpetual optimist, with an affinity for commas, sing alongs, and referential humor."]
+    #hero_right = ["**Currently doing consultancy work at UX Society. Previously doing UX and product at Agoda in Bangkok, Thailand as an international intern.**", 
+    #              "I founded [User Experience Society](https://www.facebook.com/UXSoc/), the first student UX organization in the Philippines. For two years, we've had 20+ events with 30+ speakers for over 300 members and 500+ attendees. We've expanded to [California](https://www.facebook.com/profile.php?id=245708449193012) this year.", "I do a bit of writing as well. [Here's an article with a total of 21,000+ views to InVision & Medium](http://blog.invisionapp.com/ux-internship-wisdom/) talking about 50 things I learned spending 3 years as a UX intern.", "I help cultivate the design community in Manila too. I'm the youngest core member of [UX Philippines](https://www.facebook.com/groups/uxphilippines/) and I moderated a panel with some cool people for the [UXPH 2017 Conference](https://www.uxphilippines.com).", "I'm finishing my Bachelor's degree in Management Information Systems at the Ateneo de Manila University, expecting to graduate in 2018."]
+    resume = "ResumeCollado.pdf"
 
-	# Add custom assets with their paths relative to the static folder
-	custom_js   = []
-	custom_css  = []
+[params.process]
+    enable = false
+    title = "My Process"
+    subtitle = "Full Process Design"
 
+[params.case_studies]
+    enable = true
+    title = "Case Studies"
+    subtitle = "Selected Works"
 
-	[params.sidebar]
-		# Replace the avatar with a picture of your own under static/images
-		avatar = "avatar.jpg"
-		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**I'm Strata**, a super simple<br> responsive site template freebie<br> crafted by [HTML5 UP](//html5up.net)."
-		# The icons will be shown if you enter your username
-		twitter = "spf13"
-		github = "spf13"
-		gitlab = "spf13"
-		dribbble = ""
-		facebook = ""
-		googleplus = ""
-		flickr = ""
-		linkedin = ""
-
-		copyright = [
-			"&copy; John Doe",
-			"Design: [HTML5 UP](//html5up.net)",
-			"Demo Images: [Unsplash](//unsplash.com/)"
-		]
-
-
-	[params.about]
-		hide  = false
-		title = "Ipsum lorem dolor aliquam ante commodo magna sed accumsan arcu neque."
-		content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
-
-
-	[params.portfolio]
-		hide  = false
-		title = "Recent Work"
-
-		# The images and thumbnails are stored under static/images
-		# Create and change subfolders as you like
-		[[params.portfolio.gallery]]
-			image = "fulls/01.jpg"
-			thumb = "thumbs/01.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/02.jpg"
-			thumb = "thumbs/02.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-	[params.recentposts]
-		hide  = false
-		title = "Recent blog posts"
-
-	[params.contact]
-		hide  = false
-		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
-
-		# This can be exact coordinates or a searchable address in google maps
-		gmaps_address = "39.7889055,-120.5443524"
-		address = [
-			"1234 Somewhere Rd.",
-			"Nashville, TN 00000",
-			"United States"
-		]
-		phone = "000-000-0000"
-
-		# Since this template is static, the contact form uses www.formspree.io as a
-		# proxy. The form makes a POST request to their servers to send the actual
-		# email. Visitors can send up to a 1000 emails each month for free.
-	    #
-	    # What you need to do for the setup?
-	    #
-	    # - set your email address under 'email' below
-	    # - upload the generated site to your server
-	    # - send a dummy email yourself to confirm your account
-	    # - click the confirm link in the email from www.formspree.io
-	    # - you're done. Happy mailing!
-		email = "hello@example.com"
-
-		[params.contact.form]
-			# Set custom strings for the form if your native
-			# language isn't English
-			name = "Name"
-			email = "Email"
-			message = "Message"
-			submit = "Send message"
-
-
-# Menu links that appear on the left sidebar
-[[menu.main]]
-	name = "Home"
-	url  = "/"
-	weight = 10
-
-[[menu.main]]
-  name = "About"
-  url  = "about"
-  weight = 5
-
-[[menu.main]]
-	name = "Blog"
-	url  = "post/"
-	weight = 0
+[params.footer]
+    enable = true

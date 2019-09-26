@@ -1,17 +1,35 @@
-{{ define "main" }}
-	{{ if not .Site.Params.about.hide }}
-		{{ partial "about" . }}
-	{{ end }}
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body>
+        <div>
+            {{ if .Site.Params.nav.enable }}
+            {{ partial "nav.html" . }}
+            {{ end }}
 
-	{{ if not .Site.Params.portfolio.hide }}
-		{{ partial "portfolio" . }}
-	{{ end }}
+            {{ if .Site.Params.hero.enable }}
+            {{ partial "hero.html" . }}
+            {{ end }}
 
-	{{ if not .Site.Params.recentposts.hide }}
-		{{ partial "recent-posts" . }}
-	{{ end }}
+            {{ if .Site.Params.process.enable }}
+            {{ partial "process.html" . }}
+            {{ end }}
 
-	{{ if not .Site.Params.contact.hide }}
-		{{ partial "contact" . }}
-	{{ end }}
-{{ end }}
+            {{ if .Site.Params.case_studies.enable }}
+            {{ partial "case_studies.html" . }}
+            {{ end }}
+
+            {{ partial "contact.html" . }}
+
+
+            {{ if .Site.Params.footer.enable }}
+            {{ partial "footer.html" . }}
+            {{ end }}
+        </div>
+
+        {{ partial "scripts.html" . }}
+
+    </body>
+</html>
