@@ -2,6 +2,11 @@
 <html lang="{{ .Site.LanguageCode }}">
     <head>
         {{ partial "head.html" . }}
+
+        {{ $stylesheet := .Site.Data.webpack.main }}
+        {{ with $stylesheet.css }}
+          <link href="{{ relURL . }}" rel="stylesheet">
+        {{ end }}
     </head>
     <body>
         <div>
@@ -21,15 +26,24 @@
             {{ partial "case_studies.html" . }}
             {{ end }}
 
+            {{ if .Site.Params.contact.enable }}
             {{ partial "contact.html" . }}
-
+            {{ end }}
 
             {{ if .Site.Params.footer.enable }}
             {{ partial "footer.html" . }}
             {{ end }}
         </div>
 
+        <!-- TO DO: Ideally load this through npm/webpack, but that's currently not working -->
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        
         {{ partial "scripts.html" . }}
+
+        {{ $script := .Site.Data.webpack.main }}
+        {{ with $script.js }}
+          <script src="{{ relURL . }}"></script>
+        {{ end }}
 
     </body>
 </html>

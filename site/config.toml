@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "My Portfolio Website"
+title = "Annie Zean Dunbar"
 theme = "hugo-lodi-theme"
 googleAnalytics = "UA-XXXXXXXX-Y"
 
@@ -41,6 +41,11 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     enable = true
     title = "Case Studies"
     subtitle = "Selected Works"
+
+[params.contact]
+    enable = true
+    title = "Contact"
+    subtitle = "Get in touch"
 
 [params.footer]
     enable = true

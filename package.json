@@ -27,6 +27,7 @@
     "@babel/plugin-syntax-object-rest-spread": "^7.0.0",
     "@babel/preset-env": "^7.5.4",
     "@babel/register": "^7.4.4",
+    "@fortawesome/fontawesome-free": "^5.11.2",
     "assets-webpack-plugin": "^3.9.7",
     "babel-eslint": "^10.0.2",
     "babel-loader": "^8.0.6",
@@ -62,5 +63,11 @@
   },
   "resolutions": {
     "natives": "1.1.6"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0",
+    "save": "^2.4.0"
   }
 }

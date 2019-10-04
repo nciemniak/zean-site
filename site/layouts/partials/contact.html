@@ -1,36 +1,60 @@
-
-
-<!-- Contact widget -->
-<div class="case-studies"> 
-  <div class="row contact-widget">
-    <div class="col-12 col-lg-4 section-heading">
-      <h1 class="title">Contact</h1>
-      <h2 class="subtitle">Get in touch</h2>
-      subtitle<p>hello</p>
-    </div>
-    <div class="col-12 col-lg-8">
-      page content
-  
-      {{ $post_action := "" }}
-  
-      <div class="mb-3">
-        <form name="contact" method="POST" {{ $post_action | safeHTMLAttr }}>
-          <div class="form-group form-inline">
-            <label class="sr-only" for="inputName">{{ i18n "contact_name" }}</label>
-            <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="{{ i18n "contact_name" | default "Name" }}" required>
+<!-- Contact section -->
+<section data-scroll-index="3">
+    <div class="section-template"> 
+        <div class="row contact-widget">
+          
+          <div class="col-12 col-lg-4 section-heading">
+            <h1 class="title">Contact</h1>
+            <h2 class="subtitle">Get in touch</h2>
+            <div class="contact-info">
+              <div>
+                <i class="fa fa-home"></i>
+                Your City, Colorado
+              </div>
+              <br/>
+              <div>
+                <i class="fa fa-envelope-o"></i>
+                example@email.com
+              </div>
+              <br/>
+              <div>
+                <i class="fa fa-phone"></i>
+                123-456-7891
+              </div>
+            </div>
           </div>
-          <div class="form-group form-inline">
-            <label class="sr-only" for="inputEmail">{{ i18n "contact_email" }}</label>
-            <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="{{ i18n "contact_email" | default "Email" }}" required>
+      
+          <div class="col-12 col-lg-8">  
+            {{ $post_action := "" }}  
+            <div>
+              <form id="contact-form" name="contact" method="POST" {{ $post_action | safeHTMLAttr }}>
+                <div class="row">
+                  <div class="col-12 col-lg-6">
+                    <div class="form-group form-inline">
+                        <label class="sr-only" for="inputName">Name</label>
+                        <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
+                    </div>
+                  </div>
+                  <div class="col-12 col-lg-6">
+                    <div class="form-group form-inline">
+                        <label class="sr-only" for="inputEmail">Email</label>
+                        <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required>
+                    </div>
+                  </div>
+                </div>
+                <div class="form-group">
+                  <label class="sr-only" for="inputMessage">Message</label>
+                  <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
+                </div>
+                <input type="submit" value="Send Message">
+              </form>
+            </div>
           </div>
-          <div class="form-group">
-            <label class="sr-only" for="inputMessage">{{ i18n "contact_message" }}</label>
-            <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="{{ i18n "contact_message" | default "Message" }}" required></textarea>
-          </div>
-          <button type="submit" class="btn btn-outline-primary px-3 py-2">{{ i18n "contact_send" | default "Send" }}</button>
-        </form>
+      
+        </div>
       </div>
-</div>
+</section>
+
 
 
 
