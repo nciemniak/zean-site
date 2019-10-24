@@ -6,7 +6,7 @@ const AssetsPlugin = require("assets-webpack-plugin");
 
 module.exports = {
   entry: {
-    main: path.join(__dirname, "src", "index.js")
+    main: path.join(__dirname, "src", "index.js"),
   },
 
   output: {
@@ -45,7 +45,7 @@ module.exports = {
 
   plugins: [
     new webpack.ProvidePlugin({
-      fetch: "imports-loader?this=>global!exports-loader?global.fetch!whatwg-fetch"
+      fetch: 'exports-loader?self.fetch!whatwg-fetch/dist/fetch.umd'
     }),
 
     new AssetsPlugin({
