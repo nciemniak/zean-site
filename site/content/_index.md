@@ -37,6 +37,6 @@ about:
     and referential humor.
   blurb: >-
     Welcome! Bienvenu! Annie Zean Dunbar is a first year PhD student at the
-    University of Denver.
+    Graduate School of Social Work at the University of Denver.
 ---
 
