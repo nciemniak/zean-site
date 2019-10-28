@@ -36,7 +36,7 @@ about:
     black woman, perpetual optimist, with an affinity for commas, sing alongs,
     and referential humor.
   blurb: >-
-    Welcome! Bienvenu! Annie Zean Dunbar is a Liberian-American writer,
-    educator, and social worker living in Chicago, IL.
+    Welcome! Bienvenu! Annie Zean Dunbar is a first year PhD student at the
+    University of Denver.
 ---
 
