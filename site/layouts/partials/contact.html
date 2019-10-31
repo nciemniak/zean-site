@@ -1,173 +1,44 @@
-<!--TO DO: choose which contact section you like best, and update the data-scroll-index on the final choice-->
-
 <!-- Contact section -->
 <section data-scroll-index="3">
-    <div class="section-template"> 
-
-        <h1 class="title">Contact</h1>
-        <h2 class="subtitle">Get in touch</h2>
-
-        <div class="row contact-widget">
-
-          <div class="col-12 col-lg-8">
-              {{ $post_action := "" }}  
-              <div>
-                <form id="contact-form" name="contact" method="POST" {{ $post_action | safeHTMLAttr }}>
-                  <div class="row">
-                    <div class="col-12 col-lg-6">
-                      <div class="form-group form-inline">
-                          <label class="sr-only" for="inputName">Name</label>
-                          <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
-                      </div>
-                    </div>
-                    <div class="col-12 col-lg-6">
-                      <div class="form-group form-inline">
-                          <label class="sr-only" for="inputEmail">Email</label>
-                          <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <label class="sr-only" for="inputMessage">Message</label>
-                    <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
-                  </div>
-                  <input type="submit" value="Send Message">
-                </form>
-              </div>
-          </div>
-          <div class="col-12 col-lg-4">
-              <div class="contact-info">
-                <ul>
-                  <li>                    
-                    <h2><i class="fa fa-home"></i></h2>
-                    Your City, Colorado 60606<br>
-                    United States
-                  </li>
-                  <li>
-                    <h2><i class="fa fa-envelope-o"></i></h2>
-                    {{ .Site.Params.Email }}
-                  </li>
-                  <li>
-                    <h2><i class="fa fa-phone"></i></h2>
-                    123-456-7891
-                  </li>
-                </ul>
-              </div>
-          </div>
-        </div>
-              
-    </div>
-</section>
-
-<section data-scroll-index="4">
-    <div class="section-template version-2">
+    <div class="section-template">
         <div class="row contact-widget">
             <div class="col-12 col-lg-4 section-heading">
-                <h1 class="title">Contact</h1>
-                <h2 class="subtitle">Get in touch</h2>
-              </div>
-        
-            <div class="col-12 col-lg-5">  
-              {{ $post_action := "" }}  
-              <div>
-                <form id="contact-form" name="contact" method="POST" {{ $post_action | safeHTMLAttr }}>
-                  <div class="row">
-                    <div class="col-12 col-lg-6">
-                      <div class="form-group form-inline">
-                          <label class="sr-only" for="inputName">Name</label>
-                          <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
-                      </div>
-                    </div>
-                    <div class="col-12 col-lg-6">
-                      <div class="form-group form-inline">
-                          <label class="sr-only" for="inputEmail">Email</label>
-                          <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <label class="sr-only" for="inputMessage">Message</label>
-                    <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
-                  </div>
-                  <input type="submit" value="Send Message">
-                </form>
-              </div>
-            </div>
-            <div class="col-12 col-lg-3">
-              <div class="contact-info">
-                <ul>
-                  <li>                    
-                    <h2><i class="fa fa-home"></i></h2>
-                    Your City, Colorado 60606<br>
-                    United States
-                  </li>
-                  <li>
-                    <h2><i class="fa fa-envelope-o"></i></h2>
-                    {{ .Site.Params.Email }}
-                  </li>
-                  <li>
-                    <h2><i class="fa fa-phone"></i></h2>
-                    123-456-7891
-                  </li>
-                </ul>
-              </div>
-            </div>
-        </div>   
-    </div>
-</section>
-
-<section data-scroll-index="5">
-    <div class="section-template version-3">
-        <div class="row contact-widget">
-            <div class="col-12 col-lg-4 section-heading">
-                <h1 class="title">Contact</h1>
-                <h2 class="subtitle">Get in touch</h2>
-                <div class="contact-info">
-                    <ul>
-                      <li>                    
-                        <h2><i class="fa fa-home"></i></h2>
-                        Your City, Colorado 60606<br>
-                        United States
-                      </li>
-                      <li>
-                        <h2><i class="fa fa-envelope-o"></i></h2>
-                        {{ .Site.Params.Email }}
-                      </li>
-                      <li>
-                        <h2><i class="fa fa-phone"></i></h2>
-                        123-456-7891
-                      </li>
-                    </ul>
-                  </div>
+                <h1 class="title">Get in touch</h1>
+                {{ partial "contact-info.html" . }}
             </div>
           
             <div class="col-12 col-lg-8">  
               {{ $post_action := "" }}  
-              <div>
-                <form id="contact-form" name="contact" method="POST" {{ $post_action | safeHTMLAttr }}>
-                  <div class="row">
-                    <div class="col-12 col-lg-6">
-                      <div class="form-group form-inline">
-                          <label class="sr-only" for="inputName">Name</label>
-                          <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
-                      </div>
-                    </div>
-                    <div class="col-12 col-lg-6">
-                      <div class="form-group form-inline">
-                          <label class="sr-only" for="inputEmail">Email</label>
-                          <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <label class="sr-only" for="inputMessage">Message</label>
-                    <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
-                  </div>
-                  <input type="submit" value="Send Message">
-                </form>
+              <div class="row">
+                <div class="col-12 col-md-8 col-lg-12">
+                    <form id="contact-form" name="contact" method="POST" {{ $post_action | safeHTMLAttr }}>
+                        <div class="row">
+                          <div class="col-12 col-sm-6">
+                            <div class="form-group form-inline">
+                                <label class="sr-only" for="inputName">Name</label>
+                                <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
+                            </div>
+                          </div>
+                          <div class="col-12 col-sm-6">
+                            <div class="form-group form-inline">
+                                <label class="sr-only" for="inputEmail">Email</label>
+                                <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="form-group">
+                          <label class="sr-only" for="inputMessage">Message</label>
+                          <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
+                        </div>
+                        <input type="submit" value="Send Message">
+                    </form>
+                </div>
+                <div class="col-12 col-md-4">
+                  {{ partial "contact-info.html" . }} 
+                </div>
               </div>
             </div>
-        </div>   
+        </div>  
     </div>
 </section>
 

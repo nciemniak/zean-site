@@ -557,21 +557,32 @@
   
   .contact-info {
     bottom: 0;
-    padding-left: 20px;
     color: #929292;
+    padding-left: 0;
+    margin-top: 10px;
+  }
+
+  .col-md-4 .contact-info {
+    display: none;
   }
 
   .contact-info ul {
     list-style: none;
     padding: 0;
-    margin: 0 0 2em 0;
+    margin-top: 50px;
+    margin-bottom: 0;
+  }
+
+  
+  .section-heading > .contact-info ul {
+    margin-top: 110px;
   }
 
   .contact-info li {
     line-height: 1.75;
     list-style: none;
-    padding: 0.4em 0 1.5em 2.5em;
     position: relative;
+    padding: 0.2em 0 0.6em 2.5em;
   }
 
   .contact-info ul h2 {
@@ -579,33 +590,29 @@
     margin: 0;
     left: 0;
     top: 0;
-  }
-
-  /* VERSION 2 contact page */
-  .version-2 .contact-info ul h2 {
     font-size: 20px;
   }
 
-  .version-2 .contact-info li {
-    padding: 0.2em 0 1.5em 2.5em;
-  }
-
-  /* VERSION 3 contact page */
-  .version-3 .contact-info {
-    padding-left: 0;
-    margin-top: 10px;
-  }
-
-  .version-3 .contact-info li {
-    padding: 0.2em 0 0.6em 2.5em;
-  }
-
-  .version-3 .contact-info ul h2 {
-    font-size: 20px;
-  }
 
   /* Responsive */
+  /* Boostrap size medium */
+  @media all and (max-width: 991.98px) {
+    /* Contact Section */
+    .contact-widget > .section-heading { margin-bottom: 36px; }
+    .section-heading > .contact-info { display: none; }
+
+    .contact-info { margin-top: 0; }
+    .contact-info ul { margin-top: 0 }
+    .col-md-4 .contact-info { display: initial }
+  }
+
+
   @media all and (max-width: 981px) {
+    section {
+      padding-left: 50px;
+      padding-right: 50px;
+    }
+    
     .hero-left {
       margin: 0 auto;
       text-align: center;
@@ -657,6 +664,17 @@
     margin: 0;
     margin-top: 2.4em;
   }
+
+    /* Boostrap size small */
+    @media all and (max-width: 767.98px) {
+      section { 
+        padding-left: 30px;
+        padding-right: 30px;
+      }
+
+      /* Contact Section */
+      .contact-info > ul { margin-top: 47px }
+    }
   
   @media all and (max-width: 513px) {
     .case-details {
