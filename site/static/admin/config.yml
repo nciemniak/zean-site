@@ -15,3 +15,12 @@ collections:
             {label: Blurb, name: blurb, widget: string},
             {label: About, name: about, widget: markdown},
             {label: Avatar, name: avatar, widget: image}]}
+        - {label: "Contact Info", name: contact, widget: object, fields: [
+            {label: Address, name: address, widget: markdown},
+            {label: Email, name: email, widget: string},
+            {label: "Phone Number", name: phone, widget: string}]}
+        - {label: "Social Media", name: social, widget: object, fields: [
+            {label: "Twitter Username", name: twitter, widget: string},
+            {label: "LinkedIn Username", name: linkedin, widget: string},
+            {label: "Wordpress URL", name: wordpress, widget: string}
+        ]}
