@@ -4,8 +4,8 @@
             <img src="{{ .Params.about.avatar }}" style="max-width: 50%; border-radius: 50%; ">
             <h2 class="subtitle">{{ .Params.about.blurb }}</h2>
             <div class="icons">
-                {{ if isset .Site.Params "email" }}
-                <a href="mailto:{{ .Site.Params.Email }}">
+                {{ if isset .Params.contact "email" }}
+                <a href="mailto:{{ .Params.contact.email }}">
                     <svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink">
                         <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
                         <title>ui-16px-1_email-84</title>
@@ -23,8 +23,8 @@
                     </svg>
                 </a>
                 {{ end }}
-                {{ if isset .Site.Params "twitter" }}
-                <a href="https://twitter.com/{{ .Site.Params.Twitter }}" target="blank">
+                {{ if isset .Params.social "twitter" }}
+                <a href="https://twitter.com/{{ .Params.social.twitter }}" target="blank">
                     <svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink">
                         <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
                         <title>social-16px_logo-twitter</title>
@@ -42,8 +42,8 @@
                     </svg>
                 </a>
                 {{ end }}
-                {{ if isset .Site.Params "linkedin" }}
-                <a href="{{ .Site.Params.LinkedIn }}" target="blank">
+                {{ if isset .Params.social "linkedin" }}
+                <a href="{{ .Params.social.linkedin }}" target="blank">
                     <svg width="17px" height="16px" viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink">
                         <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
                         <title>social-16px_logo-linkedin</title>

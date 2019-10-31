@@ -21,6 +21,6 @@ collections:
             {label: "Phone Number", name: phone, widget: string}]}
         - {label: "Social Media", name: social, widget: object, fields: [
             {label: "Twitter Username", name: twitter, widget: string},
-            {label: "LinkedIn Username", name: linkedin, widget: string},
+            {label: "LinkedIn URL", name: linkedin, widget: string},
             {label: "Wordpress URL", name: wordpress, widget: string}
         ]}

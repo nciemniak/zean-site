@@ -2,16 +2,15 @@
     <ul>
       <li>                    
         <h2><i class="fa fa-home"></i></h2>
-        Your City, Colorado 60606<br>
-        United States
+        {{ .Params.contact.address | markdownify }}
       </li>
       <li>
         <h2><i class="fa fa-envelope-o"></i></h2>
-        {{ .Site.Params.Email }}
+        {{ .Params.contact.email }}
       </li>
       <li>
         <h2><i class="fa fa-phone"></i></h2>
-        123-456-7891
+        {{ .Params.contact.phone }}
       </li>
     </ul>
   </div>
