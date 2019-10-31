@@ -39,5 +39,15 @@ about:
   blurb: >-
     Welcome! Bienvenu! Annie Zean Dunbar is a first year PhD student at the
     Graduate School of Social Work at the University of Denver.
+contact:
+  address: |-
+    Your City, Colorado 60606\
+    United States
+  email: dunbar.annie@gmail.com
+  phone: 123-456-7891
+social:
+  linkedin: anniezeandunbar
+  twitter: anniezeanbean
+  wordpress: 'https://wordpress.com/'
 ---
 
