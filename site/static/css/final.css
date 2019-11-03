@@ -150,7 +150,7 @@
   }
   
   .icons a {
-    padding: 4px;
+    padding: 4px 6px;
   }
   
   @media all and (max-width: 460px) {
