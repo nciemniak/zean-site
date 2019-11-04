@@ -16,7 +16,7 @@ module.exports = merge(common, {
 
   optimization: {
     minimizer: [
-      [new TerserPlugin()],
+      new TerserPlugin(),
 
       new MiniCssExtractPlugin({
         filename: "[name].[hash:5].css",
