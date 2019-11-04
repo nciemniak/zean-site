@@ -15,5 +15,14 @@ education:
     details: 'Major: Psychology Minor: English'
     school: ''
     university: Simmons University
+research-interests:
+  - Refugee Integration
+  - Public Policy
+  - Nonprofit organizations
+  - Immigration
+  - Race and Racialization
+  - Racial justice
+  - Social Justice
+  - Marginalized populations
 ---
 
