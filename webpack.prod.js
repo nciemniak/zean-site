@@ -15,11 +15,7 @@ module.exports = merge(common, {
 
   optimization: {
     minimizer: [
-      new UglifyJsPlugin({
-        cache: true,
-        parallel: true,
-        sourceMap: true
-      }),
+      [new TerserPlugin()],
 
       new MiniCssExtractPlugin({
         filename: "[name].[hash:5].css",
