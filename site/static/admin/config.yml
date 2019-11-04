@@ -24,3 +24,8 @@ collections:
             {label: "LinkedIn URL", name: linkedin, widget: string},
             {label: "Wordpress URL", name: wordpress, widget: string}
         ]}
+    - file: "site/content/cv.md"
+      label: "CV"
+      name: "cv"
+      fields:
+        - {label: "Education", name: education, widget: list, fields: [{label: University, name: university, widget: string}]}
