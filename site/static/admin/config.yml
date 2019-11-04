@@ -28,4 +28,5 @@ collections:
       label: "CV"
       name: "cv"
       fields:
-        - {label: "Education", name: education, widget: list, fields: [{label: University, name: university, widget: string}]}
+        - {label: "Education", name: education, widget: list, fields: [{label: University, name: university, widget: string}, {label: "School/Department", name: school, widget: string}, {label: "Degree Earned", name: degree, widget: string}, {label: "Additional Details", name: details, widget: string}]}
+        
