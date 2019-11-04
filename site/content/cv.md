@@ -1,16 +1,19 @@
 ---
 education:
-  - degree: 'Doctor of Philosophy, June 2023 (expected)'
-    details: NA
+  - date: June 2023 (expected)
+    degree: Doctor of Philosophy
+    details: ''
     school: Graduate School of Social Work
     university: University of Denver
-  - degree: 'Masters in Social Service Administration, June 2015 (earned)'
+  - date: June 2015 (earned)
+    degree: Masters in Social Service Administration
     details: Global Social Development Practice
     school: School of Social Service Administration
     university: University of Chicago
-  - degree: 'Major: Psychology Minor: English'
-    details: NA
-    school: 'Bachelors of Arts, May 2010 (earned)'
+  - date: May 2010 (earned)
+    degree: Bachelors of Arts
+    details: 'Major: Psychology Minor: English'
+    school: ''
     university: Simmons University
 ---
 
