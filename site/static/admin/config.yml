@@ -28,5 +28,19 @@ collections:
       label: "CV"
       name: "cv"
       fields:
-        - {label: "Education", name: education, widget: list, fields: [{label: University, name: university, widget: string}, {label: "School/Department", name: school, widget: string}, {label: "Degree Earned", name: degree, widget: string}, {label: "Additional Details", name: details, widget: string}]}
-        
+        - {label: "Education", name: education, widget: list, fields: [
+            {label: University, name: university, widget: string}, 
+            {label: "School/Department", name: school, widget: string, required: false}, 
+            {label: "Degree Earned", name: degree, widget: string}, 
+            {label: "Date Earned/Expected", name: date, widget: string}, 
+            {label: "Additional Details", name: details, widget: string, required: false}]}
+        - {label: "Research Interests", name: research-interests, widget: list}
+        - {label: "Teaching Interests", name: teaching-interests, widget: list}
+        - {label: "Research Experience", name: research-experience, widget: list, fields: [
+            {label: Name, name: name, widget: string},
+            {label: "Contact(s)", name: contact, widget: string},
+            {label: Position, name: position, widget: string},
+            {label: Date, name: date, widget: string},
+            {label: Details, name: details, widget: string}
+        ]}
+

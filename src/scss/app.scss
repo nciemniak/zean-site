@@ -1,8 +1,11 @@
+/* Vendor Styles */
 @import "~bootstrap/scss/bootstrap-grid";
+@import "~bootstrap/scss/bootstrap";
 
 $fa-font-path: "../../node_modules/font-awesome/fonts";
 @import '../../node_modules/font-awesome/scss/font-awesome.scss';
 
 
-
-
+/* Custom Styles */
+@import "_card.scss";
+@import "main.scss";

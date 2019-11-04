@@ -20,9 +20,7 @@
             {{ partial "hero.html" . }}
             {{ end }}
 
-            {{ if .Site.Params.process.enable }}
-            {{ partial "process.html" . }}
-            {{ end }}
+            {{ partial "cv.html" . }}
 
             {{ if .Site.Params.case_studies.enable }}
             {{ partial "case_studies.html" . }}
