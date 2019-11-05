@@ -1,10 +1,65 @@
+
+{{ $cv := .Site.GetPage "cv.md" }}
+
 <!-- Experience widget -->
 <section data-scroll-index="1">
-    <div class="section-template">
+    <div class="section-template cv-widget">
+        <h1 class="title mb-4">CV</h1>
         <div class="row">
             <div class="col-12 col-lg-4 section-heading">
-                <h1 class="title">CV</h1>
-                <h2 class="subtitle">Education</h2>
+                
+                <h2 class="subtitle mt-1">Education</h2>
+            </div>
+            <div class="col-12 col-lg-8">
+                {{ $exp_len := len $cv.Params.education }}
+                {{ range $idx, $key := $cv.Params.education }}
+                <div class="row experience">
+                <!-- Timeline -->
+                <div class="col-auto text-center flex-column d-none d-sm-flex">
+                    <div class="row h-50">
+                    <div class="col {{if gt $idx 0}}border-right{{end}}">&nbsp;</div>
+                    <div class="col">&nbsp;</div>
+                    </div>
+                    <div class="m-2">
+                        <span class="badge badge-pill border {{if eq $idx 0}}exp-fill{{end}}">&nbsp;</span>
+                    </div>
+                    <div class="row h-50">
+                        <div class="col {{if lt $idx (sub $exp_len 1)}}border-right{{end}}">&nbsp;</div>
+                        <div class="col">&nbsp;</div>
+                    </div>
+                </div>
+                <!-- Content -->
+                <div class="col py-2">
+                    <div class="card">
+                    <div class="card-body">
+                        <h4 class="university mt-0 mb-1">{{ .university }}</h4>
+                        <h4 class="card-subtitle mb-1">
+                            {{ with .school }}
+                                {{ . }}
+                            {{ else }}
+                                {{ .degree }}
+                            {{ end }}
+                        </h4>
+                        <div class="info">
+                            {{ if .school }}
+                                {{ .degree }}
+                                <span class="middot-divider"></span>
+                                <br class="br-divider"/>
+                            {{ end }}
+                            {{ .date }}
+                            <br/>
+                            {{ .details }}
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-lg-4 section-heading">
+                    <h2 class="subtitle mt-1">Research Interests</h2>
             </div>
             <div class="col-12 col-lg-8">
                     <div class="row experience">
@@ -14,29 +69,21 @@
                         <div class="col">&nbsp;</div>
                         <div class="col">&nbsp;</div>
                         </div>
-                        <div class="m-2">
-                            <span class="badge badge-pill border exp-fill">&nbsp;</span>
-                        </div>
                         <div class="row h-50">
-                            <div class="col border-right">&nbsp;</div>
+                            <div class="col">&nbsp;</div>
                             <div class="col">&nbsp;</div>
                         </div>
                     </div>
                     <!-- Content -->
                     <div class="col py-2">
                         <div class="card">
-                        <div class="card-body">
-                            <h4 class="card-title exp-title text-muted mt-0 mb-1">title test</h4>
-                            <h4 class="card-title exp-company text-muted my-0">
-                            test company url<a target="_blank" rel="noopener"></a>
-                            </h4>
-                            <div class="text-muted exp-meta">
-                                Test text
-                                <span class="middot-divider"></span>
-                                <span></span>
+                            <div class="card-body info">
+                                <ul>
+                                    {{ range $idx, $key := $cv.Params.research_interests }}
+                                        <li>{{ . }}</li>
+                                    {{end}}
+                                </ul>
                             </div>
-                            <div class="card-text">test description</div>
-                        </div>
                         </div>
                     </div>
                     </div>

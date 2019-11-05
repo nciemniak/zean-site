@@ -1,4 +1,5 @@
 ---
+title: CV
 education:
   - date: June 2023 (expected)
     degree: Doctor of Philosophy
@@ -15,7 +16,7 @@ education:
     details: 'Major: Psychology Minor: English'
     school: ''
     university: Simmons University
-research-interests:
+research_interests:
   - Refugee Integration
   - Public Policy
   - Nonprofit organizations

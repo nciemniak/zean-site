@@ -34,7 +34,7 @@ collections:
             {label: "Degree Earned", name: degree, widget: string}, 
             {label: "Date Earned/Expected", name: date, widget: string}, 
             {label: "Additional Details", name: details, widget: string, required: false}]}
-        - {label: "Research Interests", name: research-interests, widget: list}
+        - {label: "Research Interests", name: research_interests, widget: list}
         - {label: "Teaching Interests", name: teaching-interests, widget: list}
         - {label: "Research Experience", name: research-experience, widget: list, fields: [
             {label: Name, name: name, widget: string},

@@ -1,5 +1,5 @@
 /*************************************************
- *  Card component
+ *  Card component - Hugo Academic Theme
  **************************************************/
 
  .card-simple {
@@ -41,10 +41,10 @@
   }
   
   .card h4 {
-    font-size: 0.9rem;
+    color: #777777;
+    font-size: 19px;
     font-weight: 700;
     line-height: 1.5;
-    text-transform: uppercase;
   }
   
   .card h4 a {
@@ -73,6 +73,11 @@
   
   .card p:last-child {
     margin-bottom: 0;
+  }
+
+  .card ul {
+    padding-left: 20px;
+    margin: 0.2em 0 .2em 0;
   }
   
   .card .card-image.hover-overlay:before {
@@ -117,10 +122,72 @@
     opacity: 0.6;
   }
 
+  .card-body div, .card-body ul {
+    color: #777777;
+  }
+
+  /* Boostrap size xs */
+  @media all and (max-width: 575.98px) {
+    .card h4 {
+      font-size: 18px;
+    }
+
+    .card-body div {
+      font-size: 15px;
+    }
+  }
+
   /*************************************************
  *  CV Styling
  **************************************************/
 
+/* Headers */
+.cv-widget .subtitle {
+  font-size: 34px;
+}
+
+/* Timeline */
 .experience .m-2 .border.exp-fill {
   background-color:#dee2e6;
+}
+
+/* Education Cards */
+h4.card-subtitle {
+  font-weight: 300;
+  margin-top: 0;
+}
+
+.info {
+  line-height: 1.8;
+}
+
+.br-divider {
+  display: none;
+}
+
+.middot-divider {
+  padding-right: .45em;
+  padding-left: .45em;
+  font-size: 15px
+}
+
+.middot-divider::after {
+  content: '\00B7'
+}
+
+@media all and (max-width: 728px) {
+  .cv-widget .subtitle {
+    font-size: 28px;
+  }
+}
+
+/* Boostrap size xs */
+@media all and (max-width: 575.98px) {
+  .middot-divider {
+    display: none;
+  }
+
+  .br-divider {
+    display: initial;
+  }
 }
