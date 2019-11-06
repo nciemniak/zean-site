@@ -26,6 +26,10 @@ research_interests:
   - Marginalized populations
 teaching_interests:
   - 'Power, Privilege, and Oppression'
+  -  Refugee and Immigrant Social Work
+  -  Theory
+  -  Social Policy
+  -  Praxis in Social Work
 presentations:
   - x
 ---
