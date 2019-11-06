@@ -26,10 +26,19 @@ research_interests:
   - Marginalized populations
 teaching_interests:
   - 'Power, Privilege, and Oppression'
-  -  Refugee and Immigrant Social Work
-  -  Theory
-  -  Social Policy
-  -  Praxis in Social Work
+  - Refugee and Immigrant Social Work
+  - Theory
+  - Social Policy
+  - Praxis in Social Work
+research_experience:
+  - contact: Dr. Ramona Beltran
+    date: September 2019 - present
+    details: >-
+      Provide data management for Our Stories, Our Medicine Archives (OSOMA)
+      project and assist with preparation of data and analysis (forthcoming).
+      Assist in grant writing and seeking for research projects.
+    name: 'Our Stories, Our Medicine Archives (OSOMA)'
+    position: Graduate Teaching Assistant
 presentations:
   - x
 ---
