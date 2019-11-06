@@ -24,5 +24,13 @@ research-interests:
   - Racial justice
   - Social Justice
   - Marginalized populations
+teaching-interests:
+  - '"Power'
+  - Privilege
+  - and Oppression"
+  - Refugee and Immigrant Social Work
+  - Theory
+  - Social Policy
+  - Praxis in Social Work
 ---
 
