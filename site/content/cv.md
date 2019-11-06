@@ -24,5 +24,9 @@ research_interests:
   - Racial justice
   - Social Justice
   - Marginalized populations
+teaching_interests:
+  - 'Power, Privilege, and Oppression'
+presentations:
+  - x
 ---
 
