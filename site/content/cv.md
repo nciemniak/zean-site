@@ -175,7 +175,8 @@ service:
       through multidisciplinary and experiential events and workshops.
     organization: Connect-the-Dots
     position: Co-Founder
-training: "York University, Centre for Refugee Studies.\r\\\nSummer Course on Refugees and Forced Migration."
+training: 
+  - description: "York University, Centre for Refugee Studies.\r\\\nSummer Course on Refugees and Forced Migration."
 memberships:
   - Society for Social Work and Research
   - International Association for the Study of Forced Migration (IASFM)
