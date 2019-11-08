@@ -126,6 +126,10 @@
     opacity: 0.6;
   }
 
+  .card-body {
+    padding-left: 1.5rem;
+  }
+
   .card-body div, .card-body ul {
     color: #777777;
   }
@@ -159,7 +163,7 @@
   background-color:#dee2e6;
 }
 
-/* Education Cards */
+/* Cards */
 h4.card-subtitle {
   font-weight: 300;
   margin-top: 0;
@@ -183,6 +187,10 @@ h4.card-subtitle {
   content: '\00B7'
 }
 
+.metadata {
+  font-size: 14px;
+}
+
 @media all and (max-width: 728px) {
   .cv-widget .subtitle {
     font-size: 28px;
@@ -201,5 +209,9 @@ h4.card-subtitle {
 
   .br-divider {
     display: initial;
+  }
+
+  .card-body div .metadata {
+    font-size: 13px;
   }
 }
