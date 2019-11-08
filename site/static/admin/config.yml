@@ -73,8 +73,8 @@ collections:
           {label: Organization, name: organization, widget: string},
           {label: Position, name: position, widget: string},
           {label: Date, name: date, widget: string},
-          {label: Details, name: details, widget: string}
+          {label: Details, name: details, widget: list, field: {label: Detail, name: detail, widget: string}}
         ]}
-        - {label: Training, name: training, widget: markdown}
+        - {label: Training, name: training, widget: list, field: {label: Description, name: description, widget: markdown}}
         - {label: Memberships, name: memberships, widget: list}
 
