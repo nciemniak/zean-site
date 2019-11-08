@@ -71,7 +71,7 @@ pubs:
     University of Chicago.
 art_pubs:
   - >-
-    Bohere, M.T., **Dunbar, A.Z.**, Mañibo, D. Michael, J. (2018).  |][\.
+    Bohere, M.T., **Dunbar, A.Z.**, Mañibo, D. Michael, J. (2018).  |][\\.
     Self-Published artist book.
   - >-
     **Dunbar, A.Z.** (2008) She stained her Ink with Skin. Sidelines the Simmons

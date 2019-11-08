@@ -35,12 +35,31 @@ collections:
             {label: "Date Earned/Expected", name: date, widget: string}, 
             {label: "Additional Details", name: details, widget: string, required: false}]}
         - {label: "Research Interests", name: research_interests, widget: list}
-        - {label: "Teaching Interests", name: teaching-interests, widget: list}
-        - {label: "Research Experience", name: research-experience, widget: list, fields: [
+        - {label: "Teaching Interests", name: teaching_interests, widget: list, field: {label: Interest, name: interest, widget: string}}
+        - {label: "Research Experience", name: research_experience, widget: list, fields: [
             {label: Name, name: name, widget: string},
             {label: "Contact(s)", name: contact, widget: string},
             {label: Position, name: position, widget: string},
             {label: Date, name: date, widget: string},
+            {label: Details, name: details, widget: markdown}
+        ]}
+        - {label: "Grants and Fellowships", name: grants, widget: list, fields: [
+            {label: Name, name: name, widget: string},
             {label: Details, name: details, widget: string}
+        ]}
+        - {label: "Peer Reviewed Publications", name: pubs, widget: list, field: {label: Publication, name: pub, widget: markdown}}
+        - {label: "Artistic Publications", name: art_pubs, widget: list, field: {label: Publication, name: pub, widget: markdown}}
+        - {label: "Peer Reviewed Presentations", name: presentations, widget: list, {label: Presentation, name: presentation, widget: markdown}}
+        - {label: "Teaching Experience", name: teaching_exp, widget: list, fields: [
+            {label: Location, name: location, widget: string},
+            {label: Position, name: position, widget: string},
+            {label: Date, name: date, widget: string},
+            {label: Details, name: details, widget: string}
+        ]}
+        - {label: "Other Professional Experience", name: professional_exp, widget: list, fields: [
+            {label: Organization, name: organization, widget: string},
+            {label: Position, name: position, widget: string},
+            {label: Date, name: date, widget: string},
+            {label: Details, name: details, widget: list, field: {label: Detail, name: detail, widget: string}}
         ]}
 
