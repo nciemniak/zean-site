@@ -64,6 +64,15 @@ research_experience:
       area.
     name: New Communities Study
     position: Research Assistant
+grants:
+  - details: 'SSHRC-CRSH Connection Grant, $3300 CAD'
+    name: >-
+      Knowledge Cluster Project: Connecting Emerging Scholars and Practitioners
+      to Foster Critical Reflections and Innovation on Migration Research
+  - details: 'Human Rights Intern, $5000'
+    name: Pozen Family Center for Human Rights Internship
+  - details: 'Reframing Research Graduate Student Workshop, $3000'
+    name: Buffett Institute for Global Studies
 pubs:
   - >-
     **Dunbar, A.Z.**, Lloyd, J., Ramirez, L., Taylor, S. (2016). Outcome
