@@ -64,6 +64,25 @@ research_experience:
       area.
     name: New Communities Study
     position: Research Assistant
+pubs:
+  - >-
+    **Dunbar, A.Z.**, Lloyd, J., Ramirez, L., Taylor, S. (2016). Outcome
+    Evaluation of an International Diversity Curriculum, Advocates Forum,
+    University of Chicago.
+art_pubs:
+  - >-
+    Bohere, M.T., **Dunbar, A.Z.**, ****Mañibo, D. Michael, J. (2018).  |][\.
+    Self-Published artist book.
+  - >-
+    **Dunbar, A.Z.** (2008) She stained her Ink with Skin. Sidelines the Simmons
+    College Art and Literary Magazine. Simmons University.
+  - >-
+    **Dunbar, A.Z.** (2007). Street Care News, Not Blues. Where the Road Begins,
+    an Anthology. The Cultural Organization of Lowell (COOL), Inc.
+  - >-
+    **Dunbar, A.Z.** (2007). Chaud, Walking in the Midst of the Freeze. Where
+    the Road Begins, an Anthology. The Cultural Organization of Lowell (COOL),
+    Inc.
 presentations:
   - x
 ---
