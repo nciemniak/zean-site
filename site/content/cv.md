@@ -126,7 +126,7 @@ professional_exp:
         Network peer-reviewed e-journal.
     organization: Emerging Scholars and Practitioners in Migration Issues (ESPMI) Network
     position: Social Media Lead
-  - date: October 2015-February 2018
+  - date: October 2015 - February 2018
     details:
       - >-
         Coordinated programming for Buffet Institute for Global Studies funded
@@ -144,10 +144,14 @@ professional_exp:
         Reframing Research on op-ed writing of dissertation research.
     organization: Center for Forced Migration Studies at Northwestern University
     position: Program Coordinator
-  - date: October 2013- September 2016
+  - date: October 2013 - September 2016
     details:
-      - "•\tConducted special events preparation on the University of Chicago campus and in the city of Chicago."
-      - "•\tExecuted and facilitated summer training course including coordination of promotional materials and volunteer coordination."
+      - >-
+        Conducted special events preparation on the University of Chicago campus
+        and in the city of Chicago.
+      - >-
+        Executed and facilitated summer training course including coordination
+        of promotional materials and volunteer coordination.
     organization: University of Chicago Collegiate Scholars Program
     position: Office Administrator
 ---
