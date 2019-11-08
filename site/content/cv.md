@@ -40,7 +40,7 @@ research_experience:
     name: 'Our Stories, Our Medicine Archives (OSOMA)'
     position: Graduate Teaching Assistant
   - contact: 'Dr. Arin Reeves '
-    date: May 2018- February 2019
+    date: May 2018 - February 2019
     details: >-
       Provide qualitative and quantitative data analysis and assist with
       preparation of reports and client projects on diversity and inclusion,
@@ -48,7 +48,7 @@ research_experience:
     name: 'Nextions, LLC. Multiple client-based research projects and studies'
     position: Research Projects Manager
   - contact: 'Dr. Carol Geffner and Mrs. Barbara Ladon, MA'
-    date: March 2015- June 2018
+    date: March 2015 - June 2018
     details: >-
       Provide qualitative and quantitative data analysis for healthcare related
       projects.
@@ -57,7 +57,7 @@ research_experience:
       studies
     position: Research Associate
   - contact: Dr. Jessica H. Darrow
-    date: July 2015- September 2015
+    date: July 2015 - September 2015
     details: >-
       Provide secondary data and assisted in report writing and deliver of Phase
       I of multiphase study for Refugee Resettlement agencies in Chicagoland
