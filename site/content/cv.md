@@ -211,9 +211,8 @@ training:
   - organization: 'York University, Centre for Refugee Studies.'
     program: Summer Course on Refugees and Forced Migration.
   - organization: 'Northwestern University, Center for Forced Migration Studies.'
-    program: >-
-      Summer Institute: Refugee Protection and the Rights and Process of (Re)
-      Settlement.
+    program: 'Summer Institute: Refugee Protection and the Rights and Process of (Re)
+      Settlement.'
 memberships:
   - Society for Social Work and Research
   - International Association for the Study of Forced Migration (IASFM)
