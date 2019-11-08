@@ -156,30 +156,60 @@ professional_exp:
     position: Office Administrator
 service:
   - date: Present
-    details: 
+    details:
       - >-
-        Assist and create foundational and operational policies and procedures for
-        the 501c3 Surf Sisters for Science. Provide expertise in grant seeking to
-        develop robust funding portfolio.
+        Assist and create foundational and operational policies and procedures
+        for the 501c3 Surf Sisters for Science. Provide expertise in grant
+        seeking to develop robust funding portfolio.
     organization: Surf Sisters for Science
     position: Board Member
   - date: Application Cycle 2018 & 2019
-    details: 
+    details:
       - >-
-        Review applications for the Human Rights Internship. Interview applicants
-        and submit feedback to larger committee for selection of 2019 and 2020
-        cohorts. 
+        Review applications for the Human Rights Internship. Interview
+        applicants and submit feedback to larger committee for selection of 2019
+        and 2020 cohorts. 
     organization: 'Pozen Family Center for Human Rights, University of Chicago'
     position: Internship Committee Member
   - date: 2015-Present
-    details: 
+    details:
       - >-
-        Created arts and community-based organization to examine social construct
-        through multidisciplinary and experiential events and workshops.
+        Created arts and community-based organization to examine social
+        construct through multidisciplinary and experiential events and
+        workshops.
+      - >-
+        Executed two symposiums: gRace: a graceful dialogue on race and
+        Democritique.
     organization: Connect-the-Dots
     position: Co-Founder
-training: 
+  - date: March 2018 - July 2018
+    details:
+      - >-
+        Created self-published art-book (run of 50) with collaborations as part
+        of Multitude Artist Residency. Executed two artist performance and
+        fundraiser raising $1000 for the Overlook Place.
+    organization: The Overlook Place
+    position: Artist in Residence
+  - date: Application Cycle 2014 - 2018
+    details:
+      - >-
+        Review up to 30 applications of potential participants to the program.
+        Interview cohort of students during second phase of the application
+        process. Review final applicants and select cohort of 50 students for
+        each academic year. 
+    organization: University of Chicago Collegiate Scholars Program
+    position: Volunteer
+  - date: May 2011 - October 2011
+    details:
+      - >-
+        Collaborated with 30 Scott/Ross Center Alumnae to raise $145,000 for
+        Steve London Scholarships though Scott/Ross Center for Community
+        Service.
+    organization: Simmons Scott/Ross Center for Community Service
+    position: Fundraising Committee
+training:
   - description: "York University, Centre for Refugee Studies.\r\\\nSummer Course on Refugees and Forced Migration."
+  - "Northwestern University, Center for Forced Migration Studies\r\\\nSummer Institute: Refugee Protection and the Rights and Process of (Re) Settlement."
 memberships:
   - Society for Social Work and Research
   - International Association for the Study of Forced Migration (IASFM)
