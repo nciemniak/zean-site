@@ -154,5 +154,30 @@ professional_exp:
         of promotional materials and volunteer coordination.
     organization: University of Chicago Collegiate Scholars Program
     position: Office Administrator
+service:
+  - date: Present
+    details: >-
+      Assist and create foundational and operational policies and procedures for
+      the 501c3 Surf Sisters for Science. Provide expertise in grant seeking to
+      develop robust funding portfolio.
+    organization: Surf Sisters for Science
+    position: Board Member
+  - date: Application Cycle 2018 & 2019
+    details: >-
+      Review applications for the Human Rights Internship. Interview applicants
+      and submit feedback to larger committee for selection of 2019 and 2020
+      cohorts. 
+    organization: 'Pozen Family Center for Human Rights, University of Chicago'
+    position: Internship Committee Member
+  - date: 2015-Present
+    details: >-
+      Created arts and community-based organization to examine social construct
+      through multidisciplinary and experiential events and workshops.
+    organization: Connect-the-Dots
+    position: Co-Founder
+training: "York University, Centre for Refugee Studies.\r\\\nSummer Course on Refugees and Forced Migration."
+memberships:
+  - Society for Social Work and Research
+  - International Association for the Study of Forced Migration (IASFM)
 ---
 
