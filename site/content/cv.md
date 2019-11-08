@@ -93,24 +93,38 @@ art_pubs:
     the Road Begins, an Anthology. The Cultural Organization of Lowell (COOL),
     Inc.
 presentations:
-  - presentation: "_Methodological Challenges in Forced Migration Research_\r\\\nCanadian Association for Refugee and Forced Migration Studies (CARFMS) \r\\\n2018 Ottawa, Canada. _Panel Discussant._"
-  - presentation: "_Bridging Forced Migration Research to Policy and Practice_\r\\\nCanadian Association for Refugee and Forced Migration Studies (CARFMS) \r\\\n2018 Ottawa, Canada. _Panel Discussant._"
-  - presentation: "_Methodological Challenges in Forced Migration Research_\r\\\nInternational Association for the Study of Forced Migration (IASFM) Annual \rConference 2018:  Whither Refugees? Restrictionism, Crises and Precarity Writ \rLarge. _Invited Panel Discussant._"
-  - presentation: "_Community, Dialogue, and the Barriers to Resettlement: A look at Chicago,_ \r\\\nworking paper. Center for Forced Migration Studies Northwestern University \rWorking Group. _Working paper Presenter._"
-  - presentation: "_Community, Dialogue, and the Barriers to Resettlement: A look at Chicago._\r\\\n11th Annual Center for Refugee Studies, York University Student Caucus \rConference: The Production of Forced Migration. _Working Paper Presenter._"
+  - date: May 2018
+    presentation: "_Methodological Challenges in Forced Migration Research_\r\\\nCanadian Association for Refugee and Forced Migration Studies (CARFMS) \r\\\n2018 Ottawa, Canada. _Panel Discussant._"
+  - date: May 2018
+    presentation: "_Bridging Forced Migration Research to Policy and Practice_\r\\\nCanadian Association for Refugee and Forced Migration Studies (CARFMS) \r\\\n2018 Ottawa, Canada. _Panel Discussant._"
+  - date: July 2018
+    presentation: "_Methodological Challenges in Forced Migration Research_\r\\\nInternational Association for the Study of Forced Migration (IASFM) Annual \rConference 2018:  Whither Refugees? Restrictionism, Crises and Precarity Writ \rLarge. _Invited Panel Discussant._"
+  - date: March 2017
+    presentation: "_Community, Dialogue, and the Barriers to Resettlement: A look at Chicago,_ \r\\\nworking paper. Center for Forced Migration Studies Northwestern University \rWorking Group. _Working paper Presenter._"
+  - date: September 2016
+    presentation: "_Community, Dialogue, and the Barriers to Resettlement: A look at Chicago._\r\\\n11th Annual Center for Refugee Studies, York University Student Caucus \rConference: The Production of Forced Migration. _Working Paper Presenter._"
+  - date: July 2018
+    presentation: "_Bridging Forced Migration Research to Policy and Practice._\r\n\nInternational Association for the Study of Forced Migration (IASFM) Annual \rConference 2018:  Whither Refugees? Restrictionism, Crises and Precarity Writ Large. _Invited Panel Discussant._"
 invited_presentations:
-  - presentation: "_Teaching about Refugees, Forced Migration, and African Integration._ \r\\\nAfrican Studies Association (ASA). _Conference Presenter._"
-  - presentation: "_Refugee Resettlement Process._\r\\\nHyde Park Refugee Project, Coming to America. _Conference Presenter._"
+  - date: November 2017
+    presentation: "_Teaching about Refugees, Forced Migration, and African Integration._ \r\\\nAfrican Studies Association (ASA). _Conference Presenter._"
+  - date: September 2017
+    presentation: "_Refugee Resettlement Process._\r\\\nHyde Park Refugee Project, Coming to America. _Conference Presenter._"
 teaching_exp:
-  - date: x
-    details: x
-    location: x
-    position: x
+  - date: September-December 2009
+    details: >-
+      Simmons College First Year Experience, a semester long Pass/Fail course
+      about college acclimation for first year students.
+    location: Simmons University
+    position: Co-Facilitator
 professional_exp:
-  - date: x
+  - date: 2018-2020
     details:
-      - x
-    organization: x
-    position: x
+      - >-
+        Execute all social media outreach and newsletter digest. Lead on ESPMI
+        Guest Twitter Project, provides outreach for Refugee Review, the ESPMI
+        Network peer-reviewed e-journal.
+    organization: Emerging Scholars and Practitioners in Migration Issues (ESPMI) Network
+    position: Social Media Lead
 ---
 
