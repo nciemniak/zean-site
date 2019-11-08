@@ -93,6 +93,25 @@ art_pubs:
     the Road Begins, an Anthology. The Cultural Organization of Lowell (COOL),
     Inc.
 presentations:
+  - "_Methodological Challenges in Forced Migration Research_\r\\\nCanadian Association for Refugee and Forced Migration Studies (CARFMS) \r\\\n2018 Ottawa, Canada. _Panel Discussant._"
+  - "_Bridging Forced Migration Research to Policy and Practice_\r\\\nCanadian Association for Refugee and Forced Migration Studies (CARFMS) \r\\\n2018 Ottawa, Canada. _Panel Discussant._"
   - x
+  - "_Methodological Challenges in Forced Migration Research_\r\\\nInternational Association for the Study of Forced Migration (IASFM) Annual \rConference 2018:  Whither Refugees? Restrictionism, Crises and Precarity Writ \rLarge. _Invited Panel Discussant._"
+  - "_Community, Dialogue, and the Barriers to Resettlement: A look at Chicago,_ \r\\\nworking paper. Center for Forced Migration Studies Northwestern University \rWorking Group. _Working paper Presenter._"
+  - "_Community, Dialogue, and the Barriers to Resettlement: A look at Chicago._\r\\\n11th Annual Center for Refugee Studies, York University Student Caucus \rConference: The Production of Forced Migration. _Working Paper Presenter._"
+invited_presentations:
+  - "_Teaching about Refugees, Forced Migration, and African Integration._ \r\\\nAfrican Studies Association (ASA). _Conference Presenter._"
+  - "_Refugee Resettlement Process._\r\\\nHyde Park Refugee Project, Coming to America. _Conference Presenter._"
+teaching_exp:
+  - date: x
+    details: x
+    location: x
+    position: x
+professional_exp:
+  - date: x
+    details:
+      - x
+    organization: x
+    position: x
 ---
 
