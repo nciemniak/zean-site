@@ -49,7 +49,14 @@ collections:
         ]}
         - {label: "Peer Reviewed Publications", name: pubs, widget: list, field: {label: Publication, name: pub, widget: markdown}}
         - {label: "Artistic Publications", name: art_pubs, widget: list, field: {label: Publication, name: pub, widget: markdown}}
-        - {label: "Peer Reviewed Presentations", name: presentations, widget: list, {label: Presentation, name: presentation, widget: markdown}}
+        - {label: "Peer Reviewed Presentations", name: presentations, widget: list, fields: [
+            {label: Presentation, name: presentation, widget: markdown},
+            {label: Date, name: date, widget: string}
+          ]}
+        - {label: "Invited Presentations", name: invited_presentations, widget: list, fields: [
+            {label: Presentation, name: presentation, widget: markdown},
+            {label: Date, name: date, widget: string}
+          ]}
         - {label: "Teaching Experience", name: teaching_exp, widget: list, fields: [
             {label: Location, name: location, widget: string},
             {label: Position, name: position, widget: string},
@@ -62,4 +69,12 @@ collections:
             {label: Date, name: date, widget: string},
             {label: Details, name: details, widget: list, field: {label: Detail, name: detail, widget: string}}
         ]}
+        - {label: Service, name: service, widget: list, fields: [
+          {label: Organization, name: organization, widget: string},
+          {label: Position, name: position, widget: string},
+          {label: Date, name: date, widget: string},
+          {label: Details, name: details, widget: string}
+        ]}
+        - {label: Training, name: training, widget: markdown}
+        - {label: Memberships, name: memberships, widget: list}
 
