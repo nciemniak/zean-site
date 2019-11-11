@@ -49,6 +49,6 @@ social:
   linkedin: anniezeandunbar
   twitter: anniezeanbean
   wordpress: 'https://wordpress.com/'
-cv: /img/uploads/doctoral-student-cv-template-1.doc
+cv: /img/uploads/doctoral-student-cv-template-1.pdf
 ---
 
