@@ -156,6 +156,10 @@
   .main-navigation-link:hover {
     color: #686868;
   }
+
+  .cv-nav {
+    padding: 15px 20px;
+  }
   
   .main-navigation-title {
     font-family: "Domine", Georgia, serif;
@@ -649,6 +653,9 @@
     .hero-left .icons {
       margin: 0 auto;
       justify-content: center;
+    }
+    .hero-right {
+      text-align: justify;
     }
   }
   
