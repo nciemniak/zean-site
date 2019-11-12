@@ -55,7 +55,7 @@
                     <div class="col py-2">
                         <div class="card">
                             <div class="card-body info">
-                                <ul>
+                                <ul class="primary">
                                     {{ range $idx, $key := $cv.Params.research_interests }}
                                     <li>{{ . }}</li>
                                     {{end}}
@@ -78,7 +78,7 @@
                     <div class="col py-2">
                         <div class="card">
                             <div class="card-body info">
-                                <ul>
+                                <ul class="primary">
                                     {{ range $idx, $key := $cv.Params.teaching_interests }}
                                     <li>{{ . }}</li>
                                     {{end}}
@@ -164,7 +164,7 @@
                     <div class="col py-2">
                         <div class="card">
                             <div class="card-body">
-                                <div class="info">
+                                <div class="info primary">
                                     {{ . | markdownify }}
                                 </div>
                             </div>
@@ -188,7 +188,7 @@
                     <div class="col py-2">
                         <div class="card">
                             <div class="card-body">
-                                <div class="info">
+                                <div class="info primary">
                                     {{ . | markdownify }}
                                 </div>
                             </div>
@@ -213,7 +213,7 @@
                     <div class="col py-2">
                         <div class="card">
                             <div class="card-body">
-                                <div class="info">
+                                <div class="info primary">
                                     {{ .presentation | markdownify }}
                                     <div class="metadata mt-3">{{ .date }}</div>
                                 </div>
@@ -238,7 +238,7 @@
                     <div class="col py-2">
                         <div class="card">
                             <div class="card-body">
-                                <div class="info">
+                                <div class="info primary">
                                     {{ .presentation | markdownify }}
                                     <div class="metadata mt-3">{{ .date }}</div>
                                 </div>
@@ -378,7 +378,7 @@
                     <div class="col py-2">
                         <div class="card">
                             <div class="card-body info">
-                                <ul>
+                                <ul class="primary">
                                     {{ range $idx, $key := $cv.Params.memberships }}
                                     <li>{{ . }}</li>
                                     {{end}}
