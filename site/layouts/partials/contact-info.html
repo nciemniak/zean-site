@@ -1,16 +1,16 @@
 <div class="contact-info">
-    <ul>
-      <li>                    
-        <h2><i class="fa fa-home"></i></h2>
-        {{ .Params.contact.address | markdownify }}
-      </li>
-      <li>
-        <h2><i class="fa fa-envelope-o"></i></h2>
-        {{ .Params.contact.email }}
-      </li>
-      <li>
-        <h2><i class="fa fa-phone"></i></h2>
-        {{ .Params.contact.phone }}
-      </li>
-    </ul>
-  </div>
+  <ul>
+    <li>
+      <h2><i class="fa fa-home"></i></h2>
+      {{ .Params.contact.address | markdownify }}
+    </li>
+    <li>
+      <h2><i class="fa fa-envelope-o"></i></h2>
+      {{ .Params.contact.email }}
+    </li>
+    <li>
+      <h2><i class="fa fa-phone"></i></h2>
+      <a href="tel:{{ .Params.contact.phone }}">{{ .Params.contact.phone }}</a>
+    </li>
+  </ul>
+</div>
