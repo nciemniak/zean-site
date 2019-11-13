@@ -22,6 +22,8 @@
 
             {{ partial "cv.html" . }}
 
+            {{partial "projects.html" . }}
+
             {{ if .Site.Params.contact.enable }}
             {{ partial "contact.html" . }}
             {{ end }}
