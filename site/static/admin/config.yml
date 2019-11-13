@@ -23,7 +23,7 @@ collections:
             {label: "Twitter URL", name: twitter, widget: string},
             {label: "LinkedIn URL", name: linkedin, widget: string},
             {label: "Wordpress URL", name: wordpress, widget: string},
-            {label: "DU Portfolio URL", name: du_portfolio, widget:string}
+            {label: "DU Portfolio URL", name: du_portfolio, widget: string}
         ]}
         - {label: "CV File", name: cv, widget: file}
     - file: "site/content/cv.md"
