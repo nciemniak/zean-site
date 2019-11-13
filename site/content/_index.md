@@ -46,6 +46,7 @@ contact:
   email: zean.dunbar@du.edu
   phone: (508) 572-6333
 social:
+  du_portfolio: 'http://portfolio.du.edu/Zean.Dunbar/page/89306'
   linkedin: 'https://www.linkedin.com/in/anniezeandunbar/'
   twitter: 'https://twitter.com/anniezeanbean'
   wordpress: 'https://wordpress.com/'
