@@ -14,12 +14,12 @@ collections:
         - {label: "About", name: about, widget: object, fields: [
             {label: Blurb, name: blurb, widget: string},
             {label: About, name: about, widget: markdown},
-            {label: Avatar, name: avatar, widget: image}]}
+            {label: Avatar, name: avatar, hint: "please make sure uploaded image is square, i.e. height to width ratio is 1:1", widget: image}]}
         - {label: "Contact Info", name: contact, widget: object, fields: [
             {label: Address, name: address, widget: markdown},
             {label: Email, name: email, widget: string},
             {label: "Phone Number", name: phone, widget: string}]}
-        - {label: "Social Media", name: social, widget: object, fields: [
+        - {label: "Social Media*", name: social, widget: object, hint: "*to hide the icon link for one of the URLs on the site, leave the corresponding field blank", fields: [
             {label: "Twitter URL", name: twitter, widget: string},
             {label: "LinkedIn URL", name: linkedin, widget: string},
             {label: "Wordpress URL", name: wordpress, widget: string},

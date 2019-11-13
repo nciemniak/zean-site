@@ -26,8 +26,12 @@
                     </svg>
                 </a>
                 {{ end }}
-                <a href="http://portfolio.du.edu/Zean.Dunbar/page/89306" target="blank"><i class="fa fa-university"></i></a>
-                <a href="http://portfolio.du.edu/Zean.Dunbar/page/89306" target="blank"><i class="fa fa-graduation-cap"></i></a>
+
+                {{ if isset .Params.social "du_portfolio" }}
+                <a href="{{ .Params.social.du_portfolio }}" target="blank"><i class="fa fa-university"></i></a>
+                <a href="{{ .Params.social.du_portfolio }}" target="blank"><i class="fa fa-graduation-cap"></i></a>
+                {{ end }}
+
                 {{ if isset .Params.social "twitter" }} 
                 <a href="{{ .Params.social.twitter }}" target="blank">
                     <svg width="20px" height="16.4706px" viewBox="0 0 16 14" version="1.1"
@@ -50,6 +54,7 @@
                     </svg>
                 </a>
                 {{ end }}
+
                 {{ if isset .Params.social "linkedin" }}
                 <a href="{{ .Params.social.linkedin }}" target="blank">
                     <svg width="20px" height="18.8235px" viewBox="0 0 17 16" version="1.1"
@@ -72,6 +77,8 @@
                     </svg>
                 </a>
                 {{ end }}
+
+                {{ if isset .Params.social "wordpress" }}
                 <a href="{{ .Params.social.wordpress }}">
                     <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
                         xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="19px"
@@ -87,6 +94,8 @@
                        C32,13.2,31.3,10.6,30,8.3z" />
                     </svg>
                 </a>
+                {{ end }}
+                
             </div>
             <a href="{{ .Params.cv }}" target="blank" class="download-resume"
                 onclick="ga('send', {hitType: 'event',eventCategory: 'CTA',eventAction: 'download'});">
