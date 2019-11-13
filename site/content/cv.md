@@ -100,9 +100,19 @@ presentations:
   - date: July 2018
     presentation: "_Methodological Challenges in Forced Migration Research_\r\\\nInternational Association for the Study of Forced Migration (IASFM) Annual Conference 2018:  Whither Refugees? Restrictionism, Crises and Precarity Writ Large. _Invited Panel Discussant._"
   - date: March 2017
-    presentation: "_Community, Dialogue, and the Barriers to Resettlement: A look at Chicago_ \r\\\nWorking paper. Center for Forced Migration Studies Northwestern University Working Group. _Working paper Presenter._"
+    presentation: >-
+      _Community, Dialogue, and the Barriers to Resettlement: A look at
+      Chicago_ 
+
+      \
+
+      Working paper. Center for Forced Migration Studies Northwestern University
+      Working Group. _Working Paper Presenter._
   - date: September 2016
-    presentation: "_Community, Dialogue, and the Barriers to Resettlement: A look at Chicago_\r\\\n11th Annual Center for Refugee Studies, York University Student Caucus \rConference: The Production of Forced Migration. _Working Paper Presenter._"
+    presentation: |-
+      _Community, Dialogue, and the Barriers to Resettlement: A look at Chicago_
+      11th Annual Center for Refugee Studies, York University Student Caucus 
+      Conference: The Production of Forced Migration. _Working Paper Presenter._
   - date: July 2018
     presentation: "_Bridging Forced Migration Research to Policy and Practice._\r\\\nInternational Association for the Study of Forced Migration (IASFM) Annual \rConference 2018:  Whither Refugees? Restrictionism, Crises and Precarity Writ Large. _Invited Panel Discussant._"
 invited_presentations:
@@ -211,8 +221,9 @@ training:
   - organization: 'York University, Centre for Refugee Studies.'
     program: Summer Course on Refugees and Forced Migration.
   - organization: 'Northwestern University, Center for Forced Migration Studies.'
-    program: 'Summer Institute: Refugee Protection and the Rights and Process of (Re)
-      Settlement.'
+    program: >-
+      Summer Institute: Refugee Protection and the Rights and Process of (Re)
+      Settlement.
 memberships:
   - Society for Social Work and Research
   - International Association for the Study of Forced Migration (IASFM)
