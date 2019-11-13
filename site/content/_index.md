@@ -41,13 +41,13 @@ about:
     Graduate School of Social Work at the University of Denver.
 contact:
   address: |-
-    Your City, Colorado 60606\
+    Denver, CO 80238\
     United States
-  email: dunbar.annie@gmail.com
-  phone: 123-456-7891
+  email: zean.dunbar@du.edu
+  phone: (508) 572-6333
 social:
-  linkedin: anniezeandunbar
-  twitter: anniezeanbean
+  linkedin: 'https://www.linkedin.com/in/anniezeandunbar/'
+  twitter: 'https://twitter.com/anniezeanbean'
   wordpress: 'https://wordpress.com/'
 cv: /img/uploads/doctoral-student-cv-template-1.pdf
 ---
