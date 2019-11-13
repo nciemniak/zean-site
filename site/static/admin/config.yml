@@ -20,9 +20,10 @@ collections:
             {label: Email, name: email, widget: string},
             {label: "Phone Number", name: phone, widget: string}]}
         - {label: "Social Media", name: social, widget: object, fields: [
-            {label: "Twitter Username", name: twitter, widget: string},
+            {label: "Twitter URL", name: twitter, widget: string},
             {label: "LinkedIn URL", name: linkedin, widget: string},
-            {label: "Wordpress URL", name: wordpress, widget: string}
+            {label: "Wordpress URL", name: wordpress, widget: string},
+            {label: "DU Portfolio URL", name: du_portfolio, widget:string}
         ]}
         - {label: "CV File", name: cv, widget: file}
     - file: "site/content/cv.md"

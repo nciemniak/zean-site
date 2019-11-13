@@ -184,6 +184,11 @@ footer {
 
 .icons a {
 	padding: 4px 6px;
+	color: $color-icons;
+}
+
+.icons a i {
+	font-size: 18px;
 }
 
 @media all and (max-width: 460px) {
@@ -623,6 +628,16 @@ textarea[name="message"] {
 	left: 0;
 	top: 0;
 	font-size: 20px;
+}
+
+.contact-info a {
+	border-bottom: dotted 1px;
+	color: inherit;
+}
+
+.contact-info a:hover {
+	color: $color-accent;
+	border-bottom-color: transparent;
 }
 
 /* Responsive */
