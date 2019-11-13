@@ -96,7 +96,8 @@ footer {
 	margin: 0 auto;
 	display: flex !important;
 	justify-content: space-between;
-	border-bottom: 1px solid #f0f0f0;
+	border-bottom: 1px solid $color-border;
+	background-color: $color-background;
 }
 
 /* Navbar */
@@ -107,8 +108,8 @@ footer {
 	height: 68px;
 	padding: 0;
 	margin: 0;
-	border-top: 1px solid #f0f0f0;
-	border-bottom: 1px solid #f0f0f0;
+	border-top: 1px solid $color-border;
+	border-bottom: 1px solid $color-border;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -118,6 +119,7 @@ footer {
 	-webkit-box-pack: justify;
 	-ms-flex-pack: justify;
 	justify-content: space-between;
+	background-color: $color-background;
 }
 
 .sub-navigation {
@@ -143,7 +145,7 @@ footer {
 }
 
 .main-navigation-link {
-	color: #686868;
+	color: $color-text;
 	padding: 15px;
 	display: -webkit-box;
 	text-align: center !important;
@@ -155,7 +157,7 @@ footer {
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
 	justify-content: center;
-	border-left: 1px solid #f0f0f0;
+	border-left: 1px solid $color-border;
 }
 
 .main-navigation-link:hover {
@@ -167,15 +169,16 @@ footer {
 }
 
 .main-navigation-title {
-	font-family: "Domine", Georgia, serif;
+	font-family: Roboto;
 	font-size: 30px;
 	font-weight: bold;
-	color: #5a54af;
+	color: $color-accent;
 	padding: 15px 20px;
+	letter-spacing: 0.03em;
 }
 
 .main-navigation-title:hover {
-	color: #5a54af;
+	color: $color-accent;
 }
 
 .icons a:first-child {
@@ -189,6 +192,20 @@ footer {
 
 .icons a i {
 	font-size: 18px;
+	margin-top: 2px;
+}
+
+footer .icons a i {
+	font-size: 16px;
+	margin-top: 3px;
+}
+
+a svg g g {
+	fill: $color-icons;
+}
+
+a#wordpress svg path {
+	fill: $color-icons;
 }
 
 @media all and (max-width: 460px) {
@@ -218,9 +235,10 @@ footer {
 section {
 	padding-top: 70px;
 	padding-bottom: 70px;
-	border-bottom: 1px solid #f0f0f0;
+	border-bottom: 1px solid $color-border;
 	padding-left: 30px;
 	padding-right: 30px;
+	background-color: $color-background;
 }
 
 .section-template {
@@ -280,7 +298,7 @@ section {
 
 .subtitle {
 	font-size: 28px;
-	color: #5a54af;
+	color: $color-accent;
 	font-weight: 300;
 	margin-bottom: 0.5em;
 }
@@ -323,12 +341,12 @@ section {
 	/* Rectangle 3: */
 	display: inline-block;
 	margin-top: 20px;
-	background: #5a54af;
+	background: $color-accent;
 	/* Download Resume: */
 	font-family: Roboto;
 	font-size: 15px;
 	/*padding: 15px 50px;*/
-	color: #c3d5ff;
+	color: $color-accent-highlight;
 	padding: 18px 0;
 	width: 296px;
 	text-align: center;
@@ -337,7 +355,7 @@ section {
 }
 
 .download-resume:hover {
-	color: #c3d5ff;
+	color: $color-accent-highlight;
 }
 
 /* Process Section */
@@ -397,7 +415,7 @@ section {
 .process-item h3 {
 	/* Discover: */
 	font-size: 28px;
-	color: #5a54af;
+	color: $color-accent;
 	letter-spacing: 0;
 }
 
@@ -500,7 +518,7 @@ section {
 
 .results-content hr {
 	width: 30px;
-	border: 3px solid #5a54af;
+	border: 3px solid $color-accent;
 }
 
 .main-case-study img {
@@ -517,7 +535,7 @@ section {
 	font-family: Roboto;
 	font-weight: bold;
 	font-size: 22px;
-	color: #5a54af;
+	color: $color-accent;
 	letter-spacing: 0;
 }
 
@@ -649,6 +667,10 @@ textarea[name="message"] {
 	}
 	.section-heading > .contact-info {
 		display: none;
+	}
+
+	.hero-right {
+		padding-left: 20px;
 	}
 
 	.contact-info {
