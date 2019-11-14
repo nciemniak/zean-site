@@ -1,4 +1,6 @@
 <nav class="main-navigation stuckMenu">
+    <!-- <a id="nav-icon"><img src="{{ .Site.BaseURL }}svg/nav-icon.svg">
+    </a> -->
     <a class="main-navigation-title" href="{{ .Site.BaseURL }}">
         Annie Zean Dunbar
     </a>
@@ -12,5 +14,6 @@
         {{ if .Site.Params.contact.enable }}
         <a href="#" class="main-navigation-link" data-scroll-goto="3">{{ .Site.Params.contact.title }}</a>
         {{ end }}
+        <a class="nav-menu-link"><i class="fa fa-bars"></i></a>
     </div>
 </nav>

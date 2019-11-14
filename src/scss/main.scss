@@ -29,6 +29,15 @@ a {
 	line-height: initial;
 }
 
+a#nav-icon {
+	height: 66px;
+}
+
+a#nav-icon img {
+	width: 66px;
+	height:66px;
+}
+
 a:hover {
 	cursor: pointer;
 	opacity: 0.8;
@@ -175,7 +184,7 @@ footer {
 
 .main-navigation-title {
 	font-family: Roboto;
-	font-size: 30px;
+	font-size: 27px;
 	font-weight: bold;
 	color: $color-accent;
 	padding: 15px 20px;
@@ -184,6 +193,25 @@ footer {
 
 .main-navigation-title:hover {
 	color: $color-accent;
+}
+
+.nav-menu-link {
+	color: $color-text;
+	display: none;
+	color: $color-text;
+	padding: 15px 25px 15px 15px;
+	text-align: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+}
+
+.nav-menu-link i {
+	font-size: 25px;
+	color: $color-text;
 }
 
 .icons a:first-child {
@@ -768,6 +796,15 @@ textarea[name="message"] {
 @media all and (max-width: 575.98px) {
 	.hero-right {
 		text-align: left;
+	}
+
+	/* Navbar */
+	.main-navigation-link {
+		display: none;
+	}
+
+	.nav-menu-link {
+		display: flex;
 	}
 }
 
