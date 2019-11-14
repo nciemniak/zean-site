@@ -1,6 +1,6 @@
 ## About
 
-This is a custom porfolio site built on top of the [Victor Hugo](https://github.com/netlify-templates/victor-hugo) boilerplate, primarily using styling from the [Lodi](https://github.com/xaviablaza/hugo-lodi-theme) theme. [Netlify](https://www.netlifycms.org/) is used for the site's content management system. See the Victor Hugo repo's readme for more details about the tools that are used by this site.
+This is a custom porfolio site built on top of the [Victor Hugo](https://github.com/netlify-templates/victor-hugo) boilerplate, primarily using styling from the [Lodi](https://github.com/xaviablaza/hugo-lodi-theme) theme. [Netlify CMS](https://www.netlifycms.org/) is used for the site's content management system. See the Victor Hugo repo's readme for more details about the tools that are used by this site.
 
 ## Structure
 ```
