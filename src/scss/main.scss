@@ -32,9 +32,14 @@ a {
 a:hover {
 	cursor: pointer;
 	opacity: 0.8;
+	text-decoration: none;
+	-webkit-transform: initial;
+	transform: initial;
+}
+
+.sub-navigation a:hover {
 	-webkit-transform: translateY(-3px);
 	transform: translateY(-3px);
-	text-decoration: none;
 }
 
 img {
@@ -700,6 +705,7 @@ textarea[name="message"] {
 	}
 	.hero-right {
 		text-align: justify;
+		padding-left: 0;
 	}
 }
 
