@@ -110,6 +110,7 @@ input[type="submit"]:active {
 	display: none;
 }
 
+/* Footer */
 footer {
 	padding: 30px 30px 30px 30px;
 	max-width: 1000px;
@@ -118,6 +119,10 @@ footer {
 	justify-content: space-between;
 	border-bottom: 1px solid $color-border;
 	background-color: $color-background;
+}
+
+#back-to-top {
+	padding-top: 3px;
 }
 
 /* Navbar */
@@ -214,6 +219,10 @@ footer {
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
 	justify-content: center;
+}
+
+.navbar-toggle:hover {
+	text-decoration: none;
 }
 
 .navbar-toggle i {
@@ -802,6 +811,7 @@ textarea[name="message"] {
 
 /* Bootstrap size xs */
 @media all and (max-width: 575.98px) {
+	/* Hero section */
 	.hero-right {
 		text-align: left;
 	}
@@ -813,6 +823,11 @@ textarea[name="message"] {
 
 	.navbar-toggle {
 		display: flex;
+	}
+
+	/* Footer */
+	#back-to-top {
+		padding-top: 3px;
 	}
 }
 
