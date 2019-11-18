@@ -1,0 +1,22 @@
+<div class="container-fluid" id="mobile-nav-menu">
+    <div class="collapse navbar-collapse" id="main-navbar">
+        <ul class="nav navbar-nav navbar-right">
+            <li class="navlinks-container">
+                <a title="{{ .Site.Params.hero.title }}" href="#" data-scroll-goto="0" data-toggle="collapse"
+                    data-target="#main-navbar">{{ .Site.Params.hero.title | upper }}</a>
+            </li>
+            <li class="navlinks-container">
+                <a title="{{ .Site.Params.cv.title }}" href="#" data-scroll-goto="1" data-toggle="collapse"
+                    data-target="#main-navbar">{{ .Site.Params.cv.title | upper }}</a>
+            </li>
+            <li class="navlinks-container">
+                <a title="{{ .Site.Params.projects.title }}" href="#" data-scroll-goto="2" data-toggle="collapse"
+                    data-target="#main-navbar">{{ .Site.Params.projects.title | upper }}</a>
+            </li>
+            <li class="navlinks-container">
+                <a title="{{ .Site.Params.contact.title }}" href="#" data-scroll-goto="3" data-toggle="collapse"
+                    data-target="#main-navbar">{{ .Site.Params.contact.title | upper }}</a>
+            </li>
+        </ul>
+    </div>
+</div>

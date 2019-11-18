@@ -1,6 +1,9 @@
 // JS Goes here - ES6 supported
+// Vendor JS
 import 'bootstrap';
-import './scss/app.scss';
 
-// Say hello
-console.log("🦊 Hello! Edit me in src/index.js");
+// Custom JS
+import './js/mobile-nav-menu.js';
+
+// Styles
+import './scss/app.scss';

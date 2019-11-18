@@ -7,6 +7,7 @@ $fa-font-path: "../../node_modules/font-awesome/fonts";
 
 
 /* Custom Styles */
+/* Colors */
 $color-accent: #5a54af;
 // $color-accent: #643a9e; //alt-1
 //$color-accent: #751275; //alt-2
@@ -22,5 +23,9 @@ $color-background: white;
 $color-border: #f0f0f0;
 //$color-border: #ebebeb; //alt-1
 
+/* Sizes */
+$navbar-height: 68px;
+
 @import "cv.scss";
 @import "main.scss";
+@import "mobile-nav-menu.scss";
