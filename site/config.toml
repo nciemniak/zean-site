@@ -30,7 +30,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 [params.cv]
     title = 'CV'
 
-[params.projects]
+[params.work]
     title = "Work"
 
 [params.contact]

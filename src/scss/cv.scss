@@ -1,6 +1,11 @@
 /*************************************************
- *  Card component - Hugo Academic Theme
+ *  Bootstrap Card Component - Hugo Academic Theme
  **************************************************/
+
+ /* Colors */
+ $color-pill: #dee2e6;
+ $color-subcategory-badge: #575f64; //this is the label marking subcategories within the CV sections
+
 
  .card-simple {
     background: #fff;
@@ -153,7 +158,7 @@
     }
   }
 
-  /*************************************************
+ /*************************************************
  *  CV Styling
  **************************************************/
 
@@ -166,9 +171,13 @@
   font-size: 25px;
 }
 
+.cv-widget h3 .badge-secondary {
+  background-color: $color-subcategory-badge;
+}
+
 /* Timeline */
 .experience .m-2 .border.exp-fill {
-  background-color:#dee2e6;
+  background-color: $color-pill;
 }
 
 /* Cards */

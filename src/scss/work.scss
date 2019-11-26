@@ -1,0 +1,26 @@
+.work-item {
+    margin-bottom: 2rem;
+    // display: flex;
+    // align-items: flex-start;
+}
+
+.work-toolbar {
+    margin-bottom: 2rem;
+}
+
+.work-item-title a {
+    color: black;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.work-item-title a:hover {
+    color: $color-accent-hover;
+    text-decoration: none;
+}
+
+.work-item-date {
+    margin-top: 12px;
+    font-size: 13px;
+    color: $color-text-extra-muted;
+}

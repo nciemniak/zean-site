@@ -1,3 +1,8 @@
+/*-----------------------------------------------+
+ | Filename: app.scss                            |
+ | Desc:     SCSS Entrypoint                     |
+ +-----------------------------------------------*/
+
 /* Vendor Styles */
 @import "~bootstrap/scss/bootstrap-grid";
 @import "~bootstrap/scss/bootstrap";
@@ -8,24 +13,23 @@ $fa-font-path: "../../node_modules/font-awesome/fonts";
 
 /* Custom Styles */
 /* Colors */
-$color-accent: #5a54af;
-// $color-accent: #643a9e; //alt-1
-//$color-accent: #751275; //alt-2
-$color-accent-highlight: #c3d5ff;
-// $color-accent-highlight: #d2ceff; //alt-1
-//$color-accent-highlight: rgb(255, 231, 255); //alt-2
-$color-text: #777777;
-//$color-text: #575757;
-$color-icons: #505050;
-//$color-icons: #464646;
-$color-background: white;
-//$color-background: #fcfcfc;
-$color-border: #f0f0f0;
-//$color-border: #ebebeb; //alt-1
+$color-accent: #751275; 
+$color-accent-highlight: #ebe6eb;
+$color-text: #575757;
+$color-icons: #353535;
+$color-background: #fcfcfc;
+$color-border: #ebebeb;
+$color-input-bg: #f3f3f3;
+$color-text-muted: #808080;
+$color-text-extra-muted: #919191;
+
+$color-accent-hover: rgb(161, 63, 168);
 
 /* Sizes */
 $navbar-height: 68px;
 
+/* Imports */
 @import "cv.scss";
 @import "main.scss";
 @import "mobile-nav-menu.scss";
+@import "work.scss";
