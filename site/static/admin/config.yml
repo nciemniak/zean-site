@@ -4,8 +4,8 @@ backend:
 media_folder: "site/static/uploads"
 public_folder: "uploads"
 collections:
-- name: "pages"
-  label: "Pages"
+- name: "sections"
+  label: "Sections"
   files:
     - file: "site/content/_index.md"
       label: "Main"
@@ -81,4 +81,12 @@ collections:
             {label: Organization, name: organization, widget: string},
             {label: Program, name: program, widget: string}]}
         - {label: Memberships, name: memberships, widget: list}
-
+- name: "work"
+  label: "Work"
+  folder: "site/content/work"
+  create: true
+  fields: 
+    - {label: Title, name: title, widget: string}
+    - {label: Description, name: description, widget: markdown}
+    - {label: Date, name: date, widget: string}
+    - {label: Content, name: content, widget: markdown}

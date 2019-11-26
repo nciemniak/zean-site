@@ -19,8 +19,12 @@
     text-decoration: none;
 }
 
+.work-item-description {
+    line-height: 1.8em;
+}
+
 .work-item-date {
-    margin-top: 12px;
+    margin-top: 14px;
     font-size: 13px;
     color: $color-text-extra-muted;
 }
