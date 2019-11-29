@@ -3,6 +3,7 @@
 import 'bootstrap';
 
 // Custom JS
+import './js/netlify-identity.js';
 import './js/mobile-nav-menu.js';
 
 // Styles
