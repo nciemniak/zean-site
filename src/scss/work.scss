@@ -1,13 +1,39 @@
-.work-item {
+.work-item-mb {
     margin-bottom: 2rem;
-    // display: flex;
-    // align-items: flex-start;
 }
 
+/* bootstrap button group toolbar */
 .work-toolbar {
-    margin-bottom: 2rem;
+    margin-bottom: 1.6rem;
 }
 
+.work-toolbar .btn-secondary {
+    background: $color-accent-hover;
+    border-color: $color-accent-hover;
+    padding: 0.3rem 0.7rem;
+}
+
+.work-toolbar .btn-secondary:hover {
+    background: $color-accent-btn-hover;
+    border-color: $color-accent-btn-hover;
+}
+.work-toolbar .btn-secondary.btn-active {
+    background: $color-accent;
+    border-color: $color-accent;
+}
+.work-toolbar .btn-secondary:focus:not(.btn-active) {
+    background: $color-accent !important;
+    border-color: $color-accent !important;
+    box-shadow: 0 0 0 0.2rem rgba(183, 84, 190, 0.5);
+}
+
+.work-toolbar .btn-secondary:focus {
+    background: $color-accent !important;
+    border-color: $color-accent !important;
+    box-shadow: 0 0 0 0.2rem rgba(183, 84, 190, 0.5);
+}
+
+/* item details */
 .work-item-title a {
     color: black;
     font-family: Roboto;
@@ -27,4 +53,19 @@
     margin-top: 14px;
     font-size: 13px;
     color: $color-text-extra-muted;
+}
+
+/* Boostrap size medium */
+@media all and (max-width: 991.98px) {
+    .work-widget h1 {
+        margin-bottom: 1.6rem;
+    }
+
+    .work-toolbar {
+        margin-bottom: 1rem;
+    }
+
+    h3.work-item-title {
+        font-size: 1.65rem;
+    }
 }
