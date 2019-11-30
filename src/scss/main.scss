@@ -18,6 +18,7 @@ body {
 	font-family: Roboto;
 	margin: 0;
 	padding: 0;
+	background-color: $color-background;
 }
 
 a {
@@ -115,7 +116,7 @@ footer {
 	margin: 0 auto;
 	display: flex !important;
 	justify-content: space-between;
-	border-bottom: 1px solid $color-border;
+	border-bottom: none;
 	background-color: $color-background;
 }
 

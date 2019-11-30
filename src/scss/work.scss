@@ -45,14 +45,30 @@
     text-decoration: none;
 }
 
-.work-item-description {
+.work-item-description, .work-item-body {
     line-height: 1.8em;
+    color: $color-text;
 }
 
 .work-item-date {
     margin-top: 14px;
     font-size: 13px;
     color: $color-text-extra-muted;
+}
+
+/* Work Item Single Page */
+.work-item-single {
+    border-bottom: 1px solid #ebebeb;
+}
+
+.work-item-section {
+
+}
+
+.work-container {
+    max-width: 760px;
+    padding: 0 20px;
+    margin: 0 auto;
 }
 
 /* Boostrap size medium */
