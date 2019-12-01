@@ -67,6 +67,16 @@
     margin: 0 auto;
 }
 
+.work-container h1.title {
+    margin-bottom: 1.7rem;
+    margin-top: 1rem;
+}
+
+.work-container .work-item-date {
+    font-size: 14px;
+    margin-bottom: 1.1rem;
+}
+
 /* Boostrap size medium */
 @media all and (max-width: 991.98px) {
     .work-widget h1 {

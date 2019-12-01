@@ -16,7 +16,10 @@
 
         <section class="work-item-section">
             <div class="work-container">
-                <h1 class="title mt-3 mb-4">{{ .Title }}</h1>
+                <h1 class="title">{{ .Title }}</h1>
+                <div class="work-item-date">
+                    {{ .Params.item_date }}
+                </div>
                 <div class="work-item-body">
                     {{ .Content }}
                 </div>
