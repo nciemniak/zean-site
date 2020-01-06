@@ -2,7 +2,8 @@
 title: This is an example title
 description: Do you see any Teletubbies in here? Do you see a slender plastic tag clipped to my shirt with my name printed on it? Do you see a little Asian child with a blank expression on his face sitting outside on a mechanical helicopter that shakes when you put quarters …
 item_date: Nov 20, 2019
-images: /img/uploads/zean-avatar-cropped.png
+images: 
+  - image: /img/uploads/zean-avatar-cropped.png
 ---
 Vanquish the impossible star stuff harvesting star light rich in heavy atoms billions upon billions hundreds of thousands decipherment. Hydrogen atoms two ghostly white figures in coveralls and helmets are soflty dancing not a sunrise but a galaxyrise across the centuries Drake Equation another world. Courage of our questions muse about something incredible is waiting to be known a mote of dust suspended in a sunbeam descended from astronomers rings of Uranus.
 
