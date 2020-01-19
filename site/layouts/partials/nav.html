@@ -1,19 +1,20 @@
 <nav class="main-navigation stuckMenu navbar navbar-default navbar-fixed-top navbar-custom">
-    <!-- <a id="nav-icon"><img src="{{ .Site.BaseURL }}svg/nav-icon.svg">
-    </a> -->
     <a class="main-navigation-title" href="{{ .Site.BaseURL }}">
         Annie Zean Dunbar
     </a>
     <div class="sub-navigation">
-        <a href="#" class="main-navigation-link" id="about" data-scroll-goto="0">{{ .Site.Params.hero.title }}</a>
+        <a {{ if eq .Type "page" }}
+            href="#" data-scroll-goto="{{ .Site.Params.hero.scroll_index }}"
+            {{ else }}
+            href="javascript:goToHomeSection(2)"
+            {{ end }} class="main-navigation-link" id="about">{{ .Site.Params.hero.title }}</a>
         
-        <a href="#" class="main-navigation-link cv-nav" data-scroll-goto="1">{{ .Site.Params.cv.title }}</a>
+        <a href="#" class="main-navigation-link cv-nav" data-scroll-goto="{{ .Site.Params.cv.scroll_index }}">{{ .Site.Params.cv.title }}</a>
 
-        <a href="#" class="main-navigation-link" data-scroll-goto="2">{{ .Site.Params.work.title }}</a>
+        <a href="#" class="main-navigation-link" data-scroll-goto="{{ .Site.Params.work.scroll_index }}">{{ .Site.Params.work.title }}</a>
 
-        {{ if .Site.Params.contact.enable }}
-        <a href="#" class="main-navigation-link" data-scroll-goto="3">{{ .Site.Params.contact.title }}</a>
-        {{ end }}
+        <a href="#" class="main-navigation-link" data-scroll-goto="{{ .Site.Params.contact.scroll_index }}">{{ .Site.Params.contact.title }}</a>
+
         <a class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar" href="#"><i class="fa fa-bars"></i></a>
     </div>
     {{ partial "mobile-nav-menu.html" . }}
