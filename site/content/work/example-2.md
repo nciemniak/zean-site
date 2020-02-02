@@ -3,9 +3,12 @@ title: xxx
 description: xxx
 item_date: 'Nov 1, 2019'
 images:
-  - /uploads/close-up-foliage-green-797797.jpg
-  - /uploads/cool-painting-style.jpg
-  - /uploads/suicide-nets.png
+  - caption: leaf
+    image: /uploads/close-up-foliage-green-797797.jpg
+  - caption: dark city
+    image: /uploads/cool-painting-style.jpg
+  - caption: nets
+    image: /uploads/suicide-nets.png
 is_paper: true
 is_artist_project: true
 ---

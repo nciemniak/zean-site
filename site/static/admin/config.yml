@@ -90,6 +90,8 @@ collections:
     - {label: Description, name: description, widget: text}
     - {label: Date, name: item_date, widget: string}
     - {label: Content, name: body, widget: markdown}
-    - {label: Images, name: images, widget: list, field: {label: Image, name: image, widget: image}}
+    - {label: Images, name: images, widget: list, fields: [
+          {label: Caption, name: caption, widget: string},
+          {label: Image, name: image, widget: image}]}
     - {label: Paper, name: is_paper, widget: boolean, default: false, required: false}
     - {label: "Artist Project", name: is_artist_project, widget: boolean, default: false, required: false}
