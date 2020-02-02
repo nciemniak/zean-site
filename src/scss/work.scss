@@ -1,8 +1,9 @@
+/* Home Page Work Section */
 .work-item-mb {
     margin-bottom: 2rem;
 }
 
-/* bootstrap button group toolbar */
+/* Bootstrap button group toolbar */
 .work-toolbar {
     margin-bottom: 1.6rem;
 }
@@ -33,7 +34,7 @@
     box-shadow: 0 0 0 0.2rem rgba(183, 84, 190, 0.5);
 }
 
-/* item details */
+/* Item details */
 .work-item-title a {
     color: black;
     font-family: Roboto;
@@ -43,6 +44,10 @@
 .work-item-title a:hover {
     color: $color-accent-hover;
     text-decoration: none;
+}
+
+.work-item-body {
+    padding-bottom: 50px;
 }
 
 .work-item-description, .work-item-body {
@@ -68,17 +73,19 @@
 }
 
 .work-container h1.title {
-    margin-bottom: 1.7rem;
+    margin-bottom: 0.9rem;
     margin-top: 1rem;
+    line-height: 1.2;
 }
 
 .work-container .work-item-date {
     font-size: 14px;
-    margin-bottom: 1.1rem;
+    margin-bottom: 1.5rem;
 }
 
 /* Boostrap size medium */
 @media all and (max-width: 991.98px) {
+    /* Home Page Work Section */
     .work-widget h1 {
         margin-bottom: 1.6rem;
     }
@@ -89,5 +96,10 @@
 
     h3.work-item-title {
         font-size: 1.65rem;
+    }
+
+    /* Work Item Single Page */
+    .work-container {
+        padding: 0;
     }
 }

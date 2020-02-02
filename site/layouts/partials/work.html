@@ -14,7 +14,7 @@
                 {{ range $index, $element := (where .Site.Pages "Section" "work") }}
                 {{ if ne .File.Path "" }}
                 <div {{ if ne $index (sub $work_len 1) }}class="work-item-mb"{{ end }}>
-                    <h3 class="work-item-title mt-0"><a href="/post/writing-technical-content/">{{ .Title }}</a></h3>
+                    <h3 class="work-item-title mt-0"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                     <div class="work-item-description">{{ .Description }}</div>
                     <div class="work-item-date">
                         {{ .Params.item_date }}
