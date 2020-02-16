@@ -1,7 +1,8 @@
 /*-----------------------------------------------+
  | Filename:     masonry-grid.js                 |
  | Desc:         init Masonry cascading grid     |
- |               library                         |
+ |               library, add click event        |
+ |               functionality to grid           |
  | Vendor page:  https://masonry.desandro.com/   |
  +-----------------------------------------------*/
 
@@ -15,4 +16,8 @@ window.onload = function() {
     imagesLoaded(grid).on('progress', function () {
       msnry.layout();
     });
-  }
+}
+
+$('.grid-item').click(function() {
+  alert('tell me something nice (testing)');
+});
