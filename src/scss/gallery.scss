@@ -27,6 +27,21 @@
     img {
       border-radius: 0.25rem;
     }
+
+    .grid-item {
+      &-desc {
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        margin: 0.4rem;
+        border-radius: 0.25rem;
+        font-family: Roboto;
+        font-weight: 700;
+        cursor: pointer;
+      }   
+    }
 }
 
 /* Bootstrap size xs */
@@ -35,4 +50,9 @@
     .grid-item {
         width: 100%
     }
+}
+
+// Gallery Modal
+.modal-overlay {
+  background: rgba(0,0,0,0.7);
 }

@@ -28,6 +28,8 @@
             </div>
         </section>
 
+        {{ partial "gallery-modal.html" . }}
+
         {{ if .Site.Params.footer.enable }}
         {{ with .Site.GetPage "_index.md" }}
         {{ partial "footer.html" . }}

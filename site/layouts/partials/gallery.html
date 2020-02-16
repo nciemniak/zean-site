@@ -3,7 +3,9 @@
         <div class="grid-sizer"></div>
         {{ range .Params.images }}
             <div class="grid-item">
-                <img src={{ . }} />
+                <img src={{ .image }} />
+                <div class="grid-item-desc">
+                </div>
             </div>
         {{ end }}
     </div>
