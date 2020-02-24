@@ -1,8 +1,8 @@
 <div class="gallery">
     <div class="grid">
         <div class="grid-sizer"></div>
-        {{ range .Params.images }}
-            <div class="grid-item">
+        {{ range $index, $element := (.Params.images) }}
+            <div data-index="{{ $index }}" class="grid-item">
                 <img src={{ .image }} />
                 <div class="grid-item-desc">
                 </div>

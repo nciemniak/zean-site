@@ -19,5 +19,12 @@ window.onload = function() {
 }
 
 $('.grid-item').click(function() {
-  alert('tell me something nice (testing)');
+  var dataIndex = $(this).attr('data-index');
+  $('#modal').show();
+  $(`.modal-image[data-index="${dataIndex}"]`).show();
+});
+
+$('.modal-icon').click(function() {
+  $('#modal').hide();
+  $('.modal-image').hide();
 });

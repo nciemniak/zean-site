@@ -54,5 +54,33 @@
 
 // Gallery Modal
 .modal-overlay {
-  background: rgba(0,0,0,0.7);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.85);
+  display: flex;
+}
+
+.modal-item {
+  position: relative;
+}
+
+.modal-image {
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  display: none;
+  max-height: 625px;
+}
+
+.modal-icon {
+  position: absolute;
+  top: 0.9rem;
+  right: 1rem;
+  cursor: pointer;
 }
