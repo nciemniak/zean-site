@@ -3,19 +3,45 @@
         Annie Zean Dunbar
     </a>
     <div class="sub-navigation">
-        <a {{ if eq .Type "page" }}
-            href="#" data-scroll-goto="{{ .Site.Params.hero.scroll_index }}"
-            {{ else }}
-            href="javascript:goToHomeSection(2)"
-            {{ end }} class="main-navigation-link" id="about">{{ .Site.Params.hero.title }}</a>
-        
-        <a href="#" class="main-navigation-link cv-nav" data-scroll-goto="{{ .Site.Params.cv.scroll_index }}">{{ .Site.Params.cv.title }}</a>
+      {{/* 
+        Note: .Type refers to content type: only homepage has content type of "page"
+        Setup to use data-scroll-goto when on homepage, use URL with anchor otherwise
+      */}}
+      <a class="main-navigation-link" id="about"
+          {{ if eq .Type "page" }} 
+              href="#" data-scroll-goto="{{ .Site.Params.hero.scroll_index }}"
+          {{ else }}
+              href="{{ .Site.BaseURL }}index.html#hero-anchor"
+          {{ end }} >{{ .Site.Params.hero.title }}</a>
+      
+      <a class="main-navigation-link cv-nav" 
+          {{ if eq .Type "page" }} 
+              href="#" data-scroll-goto="{{ .Site.Params.cv.scroll_index }}"
+          {{ else }}
+              href="{{ .Site.BaseURL }}index.html#cv-anchor"
+          {{ end }} >
+          {{ .Site.Params.cv.title }}
+      </a>
 
-        <a href="#" class="main-navigation-link" data-scroll-goto="{{ .Site.Params.work.scroll_index }}">{{ .Site.Params.work.title }}</a>
+      <a class="main-navigation-link" 
+        {{ if eq .Type "page" }}
+            href="#" data-scroll-goto="{{ .Site.Params.work.scroll_index }}"
+        {{ else }}
+            href="{{ .Site.BaseURL }}index.html#work-anchor"
+        {{ end }} >
+        {{ .Site.Params.work.title }}
+      </a>
 
-        <a href="#" class="main-navigation-link" data-scroll-goto="{{ .Site.Params.contact.scroll_index }}">{{ .Site.Params.contact.title }}</a>
+      <a  class="main-navigation-link" 
+        {{ if eq .Type "page" }}
+            href="#" data-scroll-goto="{{ .Site.Params.contact.scroll_index }}"
+        {{ else }}
+            href="{{ .Site.BaseURL }}index.html#contact-anchor"
+        {{ end }} >
+        {{ .Site.Params.contact.title }}
+      </a>
 
-        <a class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar" href="#"><i class="fa fa-bars"></i></a>
+      <a class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar" href="#"><i class="fa fa-bars"></i></a>
     </div>
     {{ partial "mobile-nav-menu.html" . }}
 </nav>

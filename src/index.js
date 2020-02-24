@@ -5,7 +5,6 @@ import 'bootstrap';
 // Custom JS
 import './js/netlify-identity.js';
 import './js/mobile-nav-menu.js';
-import './js/navbar-links.js';
 import './js/masonry-grid.js';
 
 // Styles
