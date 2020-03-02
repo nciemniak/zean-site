@@ -88,7 +88,7 @@ collections:
   fields: 
     - {label: Title, name: title, widget: string}
     - {label: Description, name: description, widget: text}
-    - {label: Date, name: item_date, widget: string}
+    - {label: Date, name: item_date, widget: string, required: false}
     - {label: Content, name: body, widget: markdown}
     - {label: Images, name: images, widget: list, fields: [
           {label: Caption, name: caption, widget: string},
