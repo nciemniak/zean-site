@@ -87,7 +87,7 @@ collections:
   create: true
   fields: 
     - {label: Title, name: title, widget: string}
-    - {label: Description, name: description, widget: text}
+    - {label: Description, name: description, widget: markdown}
     - {label: Date, name: item_date, widget: string, required: false}
     - {label: Content, name: body, widget: markdown}
     - {label: Images, name: images, widget: list, fields: [
