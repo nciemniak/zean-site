@@ -9,7 +9,7 @@ description: |-
   I stood Victorious and embrace what would be my love, 
   my obsession.
 item_date: 'Nov 1, 2019'
-is_paper: false
+is_paper: true
 is_artist_project: false
 ---
 Do you remember the first time you stayed up all night?\
