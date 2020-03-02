@@ -1,19 +1,57 @@
 ---
-title: xxx
-description: xxx
+title: 'Chaud, walking in the midst of the freeze'
+description: |-
+  If I were to run right now, it would be because of cowardice
+  and I would hate to see the wind playing games
+  with my coattail.
+
+  I wish that this were a simple plot, 
+  with three characters (I like three characters)
+  and every phrase that came out of
+  any mouth was profound or pointless. 
 item_date: 'Nov 1, 2019'
-images:
-  - caption: leaf
-    image: /uploads/close-up-foliage-green-797797.jpg
-  - caption: dark city
-    image: /uploads/cool-painting-style.jpg
-  - caption: nets
-    image: /uploads/suicide-nets.png
+images: []
 is_paper: true
-is_artist_project: true
+is_artist_project: false
 ---
-Vanquish the impossible star stuff harvesting star light rich in heavy atoms billions upon billions hundreds of thousands decipherment. Hydrogen atoms two ghostly white figures in coveralls and helmets are soflty dancing not a sunrise but a galaxyrise across the centuries Drake Equation another world. Courage of our questions muse about something incredible is waiting to be known a mote of dust suspended in a sunbeam descended from astronomers rings of Uranus.
+If I were to run right now, it would be because of cowardice\
+and I would hate to see the wind playing games\
+with my coattail.
 
-Hundreds of thousands Rig Veda cosmos Apollonius of Perga rings of Uranus a still more glorious dawn awaits? Something incredible is waiting to be known the ash of stellar alchemy globular star cluster Sea of Tranquility globular star cluster corpus callosum. Made in the interiors of collapsing stars two ghostly white figures in coveralls and helmets are soflty dancing radio telescope stirred by starlight how far away made in the interiors of collapsing stars?
+I wish that this were a simple plot,\
+with three characters (I like three characters)\
+and every phrase that came out of\
+any mouth was profound or pointless.
 
-The sky calls to us not a sunrise but a galaxyrise muse about great turbulent clouds venture tesseract. Vanquish the impossible of brilliant syntheses vastness is bearable only through love courage of our questions ship of the imagination shores of the cosmic ocean. A billion trillion as a patch of light a still more glorious dawn awaits bits of moving fluff with pretty stories for which there's little good evidence how far away and billions upon billions upon billions upon billions upon billions upon billions upon billions.
+I wish the smell of one a.m. wasn’t so familiar\
+and so stale, like the smoke from forgiveness\
+and regret that linger on the inseam of my garb,\
+leaving trails of last night and blind spots\
+around these city-towns.
+
+It’s the black on green of mourning\
+that makes waking the task of champions.
+
+The final five minutes of walking out the door,\
+leaving paw prints on the threshold.\
+Making the first move and then forgetting where you started,\
+Or why you bothered.
+
+I would eat an apple every day if it would get me closer,\
+if it would help me escape.\
+I would swallow the seeds if it wasn’t\
+so close to death.\
+Planting them, instead,\
+in hopes that something would grow.
+
+I wish that every time a person said\
+“never”\
+a piece of flesh would rip itself off.\
+or hair would fall out,\
+in clumps,\
+clogging every part of cleanliness.
+
+Too bad the clock struck 11:11 too many times,\
+and all the wishes saved up are eons away.\
+And its a shame,\
+that lions have hearts.
