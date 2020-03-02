@@ -7,20 +7,34 @@
             </div>
             <div class="col-12 col-lg-8">
                 <div class="work-toolbar btn-group" role="group">
-                    <button type="button" class="btn btn-secondary btn-active">All</button>
-                    <button type="button" class="btn btn-secondary">Papers</button>
-                    <button type="button" class="btn btn-secondary">Artist Projects</button>
+                    <button id="work-show-all" type="button" class="btn btn-secondary btn-active">All</button>
+                    <button id="work-show-papers" type="button" class="btn btn-secondary">Papers</button>
+                    <button id="work-show-projects" type="button" class="btn btn-secondary">Artist Projects</button>
                 </div>
                 {{ $work_len := len (where .Site.Pages "Section" "work") }}
                 {{ range $index, $element := (where .Site.Pages "Section" "work") }}
                 {{ if ne .File.Path "" }}
-                <div {{ if ne $index (sub $work_len 1) }}class="work-item-mb"{{ end }}>
+                <div 
+                  {{ if ne $index (sub $work_len 1) }}
+                    class="work-item work-item-mb"
+                  {{ else }}
+                    class="work-item"
+                  {{ end }}
+
+                  {{ if (.Params.is_paper) }}
+                    data-is-paper
+                  {{ end }}
+
+                  {{ if (.Params.is_project) }}
+                    data-is-project
+                  {{ end }}
+                >
                     <h3 class="work-item-title mt-0"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                     <div class="work-item-description">{{ .Description }}</div>
                     <div class="work-item-date">
                         {{ .Params.item_date }}
                     </div>
-                    <input type="hidden" name="is-project" value="{{ .Params.is_paper }}"/>
+                    <input type="hidden" name="is-paper" value="{{ .Params.is_paper }}"/>
                     <input type="hidden" name="is-project" value="{{ .Params.is_artist_project }}"/>
                 </div>
                 {{ end }}

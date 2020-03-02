@@ -6,6 +6,7 @@ import 'bootstrap';
 import './js/netlify-identity.js';
 import './js/mobile-nav-menu.js';
 import './js/masonry-grid.js';
+import './js/work-toolbar.js';
 
 // Styles
 import './scss/app.scss';
