@@ -55,7 +55,7 @@ let her love me deeper than sea and sound.\
 I, the fool,\
 let her take the reigns.\
 \
-That’s the thing about first love,\
+That’s the thing about first loves,\
 They linger on your skin the way smoke at 2 a.m. does.\
 The way the sound of birds lull you to wake.\
 But she likes when the world is quiet and only the sound of our hearts beating in time\
