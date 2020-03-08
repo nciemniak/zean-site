@@ -1,14 +1,14 @@
 ---
 title: 'Chaud, walking in the midst of the freeze'
 description: |-
-  If I were to run right now, it would be because of cowardice
-  and I would hate to see the wind playing games
+  If I were to run right now, it would be because of cowardice  
+  and I would hate to see the wind playing games  
   with my coattail.
 
-  I wish that this were a simple plot, 
-  with three characters (I like three characters)
-  and every phrase that came out of
-  any mouth was profound or pointless. 
+  I wish that this were a simple plot,  
+  with three characters (I like three characters)  
+  and every phrase that came out of  
+  any mouth was profound or pointless.  
 item_date: 'Nov 1, 2019'
 images: []
 is_paper: true
