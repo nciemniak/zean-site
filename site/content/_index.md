@@ -49,7 +49,7 @@ social:
   du_portfolio: 'http://portfolio.du.edu/Zean.Dunbar/page/89306'
   linkedin: 'https://www.linkedin.com/in/anniezeandunbar/'
   twitter: 'https://twitter.com/anniezeanbean'
-  wordpress: 'https://wordpress.com/'
+  wordpress: 'Vocalfryblog.wordpress.com'
 cv: /img/uploads/doctoral-student-cv-template-1.pdf
 ---
 
