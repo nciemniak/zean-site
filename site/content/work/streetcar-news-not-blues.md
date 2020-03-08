@@ -6,7 +6,7 @@ description: |-
   to  
   Serenity.  
   I feel the form of a person sit beside me ...
-item_date: 'Nov 1, 2019'
+item_date: ''
 is_paper: true
 is_artist_project: false
 ---
