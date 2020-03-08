@@ -1,18 +1,11 @@
 ---
 title: 'Streetcar news, not blues'
-description: >-
-  Cast down eyes. 
-
+description: |-
+  Cast down eyes.  
   Staring into the vast everglades of the subway floor is the closest I’ve come
-  to 
-
-  Serenity. 
-
-  I feel the form of a person sit beside me. 
-
-  At least someone you and I both agree looks like you when the light from
-
-  the Stiff distillment of streetcar fall against face. 
+  to  
+  Serenity.  
+  I feel the form of a person sit beside me ...
 item_date: 'Nov 1, 2019'
 is_paper: true
 is_artist_project: false
