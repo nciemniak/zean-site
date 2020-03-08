@@ -5,41 +5,41 @@
                 <a class="mobile-navlink"
                 title="{{ .Site.Params.hero.title }}" 
                 {{ if eq .Type "page" }}
-                data-scroll-goto="{{ .Site.Params.hero.scroll_index }}"
+                data-scroll-goto="{{ .Site.Params.hero.scroll_index }}" href="#"
                 {{ else }}
                 scroll-index="{{ .Site.Params.hero.scroll_index }}"
-                {{ end }}
-                href="#" data-toggle="collapse" data-target="#main-navbar">{{ .Site.Params.hero.title | upper }}</a>
+                {{ end }} >
+                {{ .Site.Params.hero.title | upper }}</a>
             </li>
             <li class="navlinks-container">
                 <a class="mobile-navlink" 
                 title="{{ .Site.Params.cv.title }}"
                 {{ if eq .Type "page" }}
-                data-scroll-goto="{{ .Site.Params.cv.scroll_index }}"
+                data-scroll-goto="{{ .Site.Params.cv.scroll_index }}" href="#"
                 {{ else }}
-                scroll-index="{{ .Site.Params.cv.scroll_index }}"
-                {{ end }}
-                href="#" data-toggle="collapse" data-target="#main-navbar">{{ .Site.Params.cv.title | upper }}</a>
+                href="{{ .Site.BaseURL }}index.html#cv-anchor"
+                {{ end }} >
+                {{ .Site.Params.cv.title | upper }}</a>
             </li>
             <li class="navlinks-container">
                 <a class="mobile-navlink" 
                 title="{{ .Site.Params.work.title }}" 
                 {{ if eq .Type "page" }}
-                data-scroll-goto="{{ .Site.Params.work.scroll_index }}"
+                    data-scroll-goto="{{ .Site.Params.work.scroll_index }}" href="#"
                 {{ else }}
-                scroll-index="{{ .Site.Params.work.scroll_index }}"
-                {{ end }}
-                href="#" data-toggle="collapse" data-target="#main-navbar">{{ .Site.Params.work.title | upper }}</a>
+                    href="{{ .Site.BaseURL }}index.html#work-anchor"
+                {{ end }} >
+                {{ .Site.Params.work.title | upper }}</a>
             </li>
             <li class="navlinks-container">
                 <a class="mobile-navlink" 
                 title="{{ .Site.Params.contact.title }}" 
                 {{ if eq .Type "page" }}
-                data-scroll-goto="{{ .Site.Params.contact.scroll_index }}"
+                    data-scroll-goto="{{ .Site.Params.contact.scroll_index }}" href="#"
                 {{ else }}
-                scroll-index="{{ .Site.Params.contact.scroll_index }}"
-                {{ end }}
-                href="#" data-toggle="collapse" data-target="#main-navbar">{{ .Site.Params.contact.title | upper }}</a>
+                    href="{{ .Site.BaseURL }}index.html#contact-anchor"
+                {{ end }} >
+                {{ .Site.Params.contact.title | upper }}</a>
             </li>
         </ul>
     </div>
