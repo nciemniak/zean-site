@@ -1,13 +1,13 @@
 ---
 title: Owls and women are very similar
 description: |-
-  Do you remember the first time you stayed up all night?
-  I was eight. 
-  The night was a fascinating experience I could not indulge in, 
-  so I pretended to be asleep, 
-  and when everyone else kissed the Sandman,
-  I stood Victorious and embrace what would be my love, 
-  my obsession.
+  Do you remember the first time you stayed up all night?  
+  I was eight.  
+  The night was a fascinating experience I could not indulge in,  
+  so I pretended to be asleep,  
+  and when everyone else kissed the Sandman,  
+  I stood Victorious and embrace what would be my love,  
+  my obsession.  
 item_date: 'Nov 1, 2019'
 is_paper: true
 is_artist_project: false
