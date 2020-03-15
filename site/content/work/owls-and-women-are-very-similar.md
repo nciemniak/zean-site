@@ -4,7 +4,7 @@ description: |-
   Do you remember the first time you stayed up all night?  
   I was eight.  
   The night was a fascinating experience I could not indulge in ...
-item_date: 'Nov 1, 2019'
+item_date: ''
 is_paper: true
 is_artist_project: false
 ---

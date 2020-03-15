@@ -4,7 +4,7 @@ description: |-
   If I were to run right now, it would be because of cowardice  
   and I would hate to see the wind playing games  
   with my coattail ...
-item_date: 'Nov 1, 2019'
+item_date: ''
 images: []
 is_paper: true
 is_artist_project: false
