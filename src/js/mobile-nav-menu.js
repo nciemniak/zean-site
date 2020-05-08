@@ -4,3 +4,9 @@ $("section").click(function() {
     $('.navbar-toggle').get(0).click()
   }
 });
+
+$("a.mobile-navlink").click(function() {
+  if ($('.collapse.show').length > 0) {
+    $('.navbar-toggle').get(0).click()
+  }
+});
