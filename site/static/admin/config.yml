@@ -87,11 +87,10 @@ collections:
   create: true
   fields: 
     - {label: Title, name: title, widget: string}
-    - {label: Description, name: description, widget: markdown}
+    - {label: Description, name: description, widget: markdown, required: false}
     - {label: Date, name: item_date, widget: string, required: false}
-    - {label: Content, name: body, widget: markdown}
+    - {label: Content, name: body, widget: markdown, required: false}
     - {label: Images, name: images, widget: list, fields: [
-          {label: Caption, name: caption, widget: string},
           {label: Image, name: image, widget: image}]}
     - {label: Paper, name: is_paper, widget: boolean, default: false, required: false}
     - {label: "Artist Project", name: is_artist_project, widget: boolean, default: false, required: false}
