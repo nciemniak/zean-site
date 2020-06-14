@@ -1,6 +1,8 @@
 ---
 title: '|][\ (vertical bar : closed bracket : open bracket : backslash, 2018)'
-description: ''
+description: >-
+  Self-published art-book (run of 50) with collaborations created as part of
+  Multitude Artist Residency.
 images:
   - image: uploads/IMG_0698.JPG
   - image: uploads/IMG_0696.JPG
@@ -10,4 +12,4 @@ images:
 is_paper: false
 is_artist_project: true
 ---
-
+Self-published art-book (run of 50) with collaborations created as part of Multitude Artist Residency.
