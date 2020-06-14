@@ -3,7 +3,8 @@
         <div class="grid-sizer"></div>
         {{ range $index, $element := (.Params.images) }}
             <div data-index="{{ $index }}" class="grid-item">
-                <img src={{ .image }} />
+                {{ $image_url := printf "%s%s" "/../../" .image }}
+                <img src={{ $image_url }} />
                 <div class="grid-item-desc">
                 </div>
             </div>

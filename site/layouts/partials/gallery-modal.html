@@ -2,7 +2,8 @@
   <div class="modal-overlay">
 
     {{ range $index, $element := (.Params.images) }}
-      <img class="modal-image" data-index="{{ $index }}" src={{ .image }} />
+      {{ $image_url := printf "%s%s" "/../../" .image }}
+      <img class="modal-image" data-index="{{ $index }}" src={{ $image_url }} />
     {{ end }}
     <img class="modal-image" src="https://themes.gohugo.io//theme/hugo-theme-zzo/gallery/cartoon/abstract-3159733_640.jpg">
 
