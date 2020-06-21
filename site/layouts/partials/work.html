@@ -30,7 +30,11 @@
                   {{ end }}
                 >
                     <h3 class="work-item-title mt-0"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-                    <div class="work-item-description">{{ .Description | markdownify }}</div>
+                    {{ if .Params.is_audio }}
+                      {{ .Content }}
+                    {{ else }}
+                      <div class="work-item-description">{{ .Description | markdownify }}</div>
+                    {{ end }}
                     <div class="work-item-date">
                         {{ .Params.item_date }}
                     </div>
