@@ -50,6 +50,6 @@ social:
   linkedin: 'https://www.linkedin.com/in/anniezeandunbar/'
   twitter: 'https://twitter.com/anniezeanbean'
   wordpress: 'https://vocalfryblog.wordpress.com'
-cv: /img/uploads/doctoral-student-cv-template-1.pdf
+cv: uploads/AZ Dunbar CV DU GSSW_June 2020.pdf
 ---
 
