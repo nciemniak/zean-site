@@ -75,6 +75,12 @@ grants:
     name: Buffett Institute for Global Studies
 pubs:
   - >-
+    Beltran, R., Alvarez, A., Colón, L., Alamillo, X., Dunbar, A.Z. (2020). La
+    Cultura Cura: An Exploration of Enculturation in A Community-Based
+    Culture-Centered HIV Prevention Curriculum for Indigenous Youth. Special
+    Issue "Community-engaged Indigenous Research Across the Globe" Genealogy,
+    Vol 4(1).
+  - >-
     **Dunbar, A.Z.**, Lloyd, J., Ramirez, L., Taylor, S. (2016). Outcome
     Evaluation of an International Diversity Curriculum, Advocates Forum,
     University of Chicago.
