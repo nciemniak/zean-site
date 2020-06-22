@@ -105,20 +105,12 @@ art_pubs:
 presentations:
   - date: Postponed to June 2021
     presentation: >-
-      **Dunbar, A.Z.** (Postponed to June 2021) Integration and Racialization of
-      Black Immigrants in the United States. Paper Presentation. Memories in
+      *Integration and Racialization of Black Immigrants in the United
+      States.*                                                Memories in
       Transit, Centre for the Study of Global Human Movement and Cambridge
-      University. United Kingdom.
+      University. United Kingdom. *Paper Presentation.*
   - date: Postponed to July 2021
-    presentation: >-
-      Akinyemi, A., **Dunbar, A.Z.,** Kuntzelman, C., Brown Crosby, D.,
-      Sorensen, J., & Yacob-Haliso, O. Chair Bah, J. (Postponed to July 2021)
-      Owning the Wood That Becomes the Table: Moving Beyond Asking for A Seat at
-      the Table - Millennials and Gen Z Refugees - Creating Wealth, Shaping
-      Policy and Reclaiming the Decision-making Process. *Roundtable.*
-      International Association for the Study of Forced Migration (IASFM)
-      Annual  Conference 2020: Disrupting Theory, Unsettling Practice: Towards
-      Transformative Forced Migration Scholarship and Policy. Accra, Ghana.
+    presentation: ' *Owning the Wood That Becomes the Table: Moving Beyond Asking for A Seat at the Table - Millennials and Gen Z Refugees - Creating Wealth, Shaping Policy and Reclaiming the Decision-making Process.*  International Association for the Study of Forced Migration (IASFM) Annual  Conference 2020: Disrupting Theory, Unsettling Practice: Towards Transformative Forced Migration Scholarship and Policy. Accra, Ghana. *Roundtable.*'
   - date: May 2018
     presentation: "_Methodological Challenges in Forced Migration Research_\r\\\nCanadian Association for Refugee and Forced Migration Studies (CARFMS) 2018 Ottawa, Canada. _Panel Discussant._"
   - date: May 2018
