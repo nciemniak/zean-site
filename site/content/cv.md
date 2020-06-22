@@ -80,6 +80,10 @@ pubs:
     University of Chicago.
 art_pubs:
   - >-
+    **Dunbar, A.Z**. (2019). The Digital Wake: pulvis et umbra sumus. The Sick
+    Muse. Vol. 11. Retrieved from:
+    https://issuu.com/thesickmuse/docs/tsm11_full_pdfs
+  - >-
     Bohere, M.T., **Dunbar, A.Z.**, Mañibo, D. Michael, J. (2018).  |][\\.
     Self-Published artist book.
   - >-
@@ -165,6 +169,11 @@ professional_exp:
     organization: University of Chicago Collegiate Scholars Program
     position: Office Administrator
 service:
+  - date: Present
+    details:
+      - "•\tProvide direct guidance and support to Director/Community Support Partner. Engage in dialogue to create a common culture of mission/vision and inclusivity (i.e. anti-oppression work) •\t Guide mission driven, responsible (financially/socially etc.) decisions that impact the whole community and the direction of Angelica Village."
+    organization: Angelica Village
+    position: Board Member
   - date: Present
     details:
       - >-
