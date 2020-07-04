@@ -75,10 +75,20 @@ grants:
     name: Buffett Institute for Global Studies
 pubs:
   - >-
+    Beltran, R., Alvarez, A., Colón, L., Alamillo, X., Dunbar, A.Z. (2020). La
+    Cultura Cura: An Exploration of Enculturation in A Community-Based
+    Culture-Centered HIV Prevention Curriculum for Indigenous Youth. Special
+    Issue "Community-engaged Indigenous Research Across the Globe" Genealogy,
+    Vol 4(1).
+  - >-
     **Dunbar, A.Z.**, Lloyd, J., Ramirez, L., Taylor, S. (2016). Outcome
     Evaluation of an International Diversity Curriculum, Advocates Forum,
     University of Chicago.
 art_pubs:
+  - >-
+    **Dunbar, A.Z**. (2019). The Digital Wake: pulvis et umbra sumus. The Sick
+    Muse. Vol. 11. Retrieved from:
+    https://issuu.com/thesickmuse/docs/tsm11_full_pdfs
   - >-
     Bohere, M.T., **Dunbar, A.Z.**, Mañibo, D. Michael, J. (2018).  |][\\.
     Self-Published artist book.
@@ -93,6 +103,14 @@ art_pubs:
     the Road Begins, an Anthology. The Cultural Organization of Lowell (COOL),
     Inc.
 presentations:
+  - date: Postponed to June 2021
+    presentation: >-
+      *Integration and Racialization of Black Immigrants in the United
+      States.*                                                Memories in
+      Transit, Centre for the Study of Global Human Movement and Cambridge
+      University. United Kingdom. *Paper Presentation.*
+  - date: Postponed to July 2021
+    presentation: ' *Owning the Wood That Becomes the Table: Moving Beyond Asking for A Seat at the Table - Millennials and Gen Z Refugees - Creating Wealth, Shaping Policy and Reclaiming the Decision-making Process.*  International Association for the Study of Forced Migration (IASFM) Annual  Conference 2020: Disrupting Theory, Unsettling Practice: Towards Transformative Forced Migration Scholarship and Policy. Accra, Ghana. *Roundtable.*'
   - date: May 2018
     presentation: "_Methodological Challenges in Forced Migration Research_\r\\\nCanadian Association for Refugee and Forced Migration Studies (CARFMS) 2018 Ottawa, Canada. _Panel Discussant._"
   - date: May 2018
@@ -165,6 +183,11 @@ professional_exp:
     organization: University of Chicago Collegiate Scholars Program
     position: Office Administrator
 service:
+  - date: Present
+    details:
+      - "•\tProvide direct guidance and support to Director/Community Support Partner. Engage in dialogue to create a common culture of mission/vision and inclusivity (i.e. anti-oppression work) •\t Guide mission driven, responsible (financially/socially etc.) decisions that impact the whole community and the direction of Angelica Village."
+    organization: Angelica Village
+    position: Board Member
   - date: Present
     details:
       - >-

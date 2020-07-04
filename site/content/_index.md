@@ -37,8 +37,8 @@ about:
     and referential humor.
   avatar: uploads/avatar-2.png
   blurb: >-
-    Welcome! Bienvenu! Annie Zean Dunbar is a first year PhD student at the
-    Graduate School of Social Work at the University of Denver.
+    Welcome! Bienvenu! Annie Zean Dunbar is a Doctoral student at the Graduate
+    School of Social Work at the University of Denver.
 contact:
   address: |-
     Denver, CO 80238\
