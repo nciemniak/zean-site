@@ -33,7 +33,14 @@
                     {{ if .Params.is_audio }}
                       {{ .Content }}
                     {{ else }}
-                      <div class="work-item-description">{{ .Description | markdownify }}</div>
+                      <div {{ if isset .Params "preview_image" }} class="row" {{ end }}>
+                        <div class="work-item-description {{ if isset .Params "preview_image" }} col-7 col-sm-8 {{ end }}">{{ .Description | markdownify }}</div>
+                        {{ if isset .Params "preview_image" }}
+                        <div class="col-5 col-sm-4">
+                          <img src={{ .Params.preview_image }} />
+                        </div>
+                        {{ end }}
+                      </div>
                     {{ end }}
                     <div class="work-item-date">
                         {{ .Params.item_date }}

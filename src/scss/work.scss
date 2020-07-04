@@ -61,6 +61,11 @@
     color: $color-text-extra-muted;
 }
 
+.work-item img {
+  max-width: 150px;
+  padding-top: 7px;
+}
+
 /* Work Item Single Page */
 .work-item-single {
     border-bottom: 1px solid #ebebeb;
@@ -83,15 +88,11 @@
     margin-bottom: 1.5rem;
 }
 
-/* Boostrap size medium */
+/* Bootstrap size medium */
 @media all and (max-width: 991.98px) {
     /* Home Page Work Section */
     .work-widget h1 {
         margin-bottom: 1.6rem;
-    }
-
-    .work-toolbar {
-        margin-bottom: 1rem;
     }
 
     h3.work-item-title {
@@ -102,4 +103,11 @@
     .work-container {
         padding: 0;
     }
+}
+
+/* Bootstrap size xs */
+@media all and (max-width: 575.98px) {
+  .work-item img {
+    max-width: 110px;
+  }
 }
