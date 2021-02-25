@@ -188,7 +188,7 @@ service:
       - "•\tProvide direct guidance and support to Director/Community Support Partner. Engage in dialogue to create a common culture of mission/vision and inclusivity (i.e. anti-oppression work) •\t Guide mission driven, responsible (financially/socially etc.) decisions that impact the whole community and the direction of Angelica Village."
     organization: Angelica Village
     position: Board Member
-  - date: Present
+  - date: 2018-2020
     details:
       - >-
         Assist and create foundational and operational policies and procedures
