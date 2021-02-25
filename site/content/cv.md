@@ -250,5 +250,7 @@ training:
 memberships:
   - Society for Social Work and Research
   - International Association for the Study of Forced Migration (IASFM)
+  - The Council on Social Work Education (CSWE)
+  - Black Doctoral Network
 ---
 
