@@ -134,6 +134,12 @@ presentations:
   - date: July 2018
     presentation: "_Bridging Forced Migration Research to Policy and Practice._\r\\\nInternational Association for the Study of Forced Migration (IASFM) Annual \rConference 2018:  Whither Refugees? Restrictionism, Crises and Precarity Writ Large. _Invited Panel Discussant._"
 invited_presentations:
+  - date: March 2021
+    presentation: >-
+      *Mutual Aid as Emergent Practice: Understanding Mutual Aid in the Past,
+      Present and Future.* 
+
+       University of Denver Graduate School of Social Work. Virtual Continuing Education workshop in the Civic Series.
   - date: November 2017
     presentation: "_Teaching about Refugees, Forced Migration, and African Integration._ \r\\\nAfrican Studies Association (ASA). _Conference Presenter._"
   - date: September 2017
