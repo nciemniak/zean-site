@@ -30,7 +30,7 @@ collections:
       label: "CV"
       name: "cv"
       fields:
-        - {label: "CV Order", name: "cv_order", widget: "list", fields: [
+        - {label: "CV Order", name: "cv_order", widget: "list", allow_add: false, hint: "*drag and drop the section names to change the order in which they will appear on the site", fields: [
             {label: Section Name, name: section_name, widget: string}
         ]}
         - {label: "Education", name: education, widget: list, fields: [
@@ -40,7 +40,7 @@ collections:
             {label: "Date Earned/Expected", name: date, widget: string}, 
             {label: "Additional Details", name: details, widget: string, required: false}]}
         - {label: "Research Interests", name: research_interests, widget: list}
-        - {label: "Teaching Interests", name: teaching_interests, widget: list, field: {label: Interest, name: interest, widget: string}}
+        - {label: "Teaching Interests", name: teaching_interests, widget: list, fields: [{label: Interest, name: interest, widget: string}]}
         - {label: "Research Experience", name: research_experience, widget: list, fields: [
             {label: Name, name: name, widget: string},
             {label: "Contact(s)", name: contact, widget: string},

@@ -38,11 +38,11 @@ research_interests:
   - Social Justice
   - Marginalized populations
 teaching_interests:
-  - 'Power, Privilege, and Oppression'
-  - Refugee and Immigrant Social Work
-  - Theory
-  - Social Policy
-  - Praxis in Social Work
+  - interest: 'Power, Privilege, and Oppression'
+  - interest: Refugee and Immigrant Social Work
+  - interest: Theory
+  - interest: Social Policy
+  - interest: Praxis in Social Work
 research_experience:
   - contact: Dr. Ramona Beltran
     date: September 2019 - present
