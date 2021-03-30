@@ -30,6 +30,9 @@ collections:
       label: "CV"
       name: "cv"
       fields:
+        - {label: "CV Order", name: "cv_order", widget: "list", fields: [
+            {label: Section Name, name: section_name, widget: string}
+        ]}
         - {label: "Education", name: education, widget: list, fields: [
             {label: University, name: university, widget: string}, 
             {label: "School/Department", name: school, widget: string, required: false}, 
