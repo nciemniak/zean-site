@@ -1,10 +1,10 @@
 ---
 cv_order:
-  - section_name: Education
   - section_name: Research Interests
+  - section_name: Education
   - section_name: Teaching Interests
   - section_name: Research Experience
-  - section_name: Grants & Fellowships
+  - section_name: Grants and Fellowships
   - section_name: Publications
   - section_name: Presentations
   - section_name: Teaching Experience
