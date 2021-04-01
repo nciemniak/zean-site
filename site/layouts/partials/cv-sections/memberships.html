@@ -1,0 +1,23 @@
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+      <h2 class="subtitle mt-1">Memberships</h2>
+  </div>
+  <div class="col-12 col-lg-8">
+      <div class="row experience">
+          <!-- Timeline -->
+          {{ partial "cv-timeline.html" (dict "idx" -1 "exp_len" 0) }}
+          <!-- Content -->
+          <div class="col py-2">
+              <div class="card">
+                  <div class="card-body info">
+                      <ul class="primary">
+                          {{ range $idx, $key := .cv.Params.memberships }}
+                          <li>{{ . }}</li>
+                          {{end}}
+                      </ul>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>

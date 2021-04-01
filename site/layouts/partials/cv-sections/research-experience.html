@@ -1,0 +1,35 @@
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+      <h2 class="subtitle mt-1">Research Experience</h2>
+  </div>
+  <div class="col-12 col-lg-8">
+      {{ $exp_len := len .cv.Params.research_experience }}
+      {{ range $idx, $key := .cv.Params.research_experience }}
+      <div class="row experience">
+          <!-- Timeline -->
+          {{ partial "cv-timeline.html" (dict "idx" $idx "exp_len" $exp_len) }}
+          <!-- Content -->
+          <div class="col py-2">
+              <div class="card">
+                  <div class="card-body">
+                      <h4 class="card-title mt-0 mb-1">{{ .name }}</h4>
+                      <h4 class="card-subtitle mb-1">
+                          {{ .contact }}
+                      </h4>
+                      <div class="info">
+                          {{ .position }}
+                          <span class="middot-divider"></span>
+                          <br class="br-divider" />
+                          {{ .date }}
+                          <br />
+                          <ul class="details">
+                              <li>{{ .details }}</li>
+                          </ul>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      {{ end }}
+  </div>
+</div>

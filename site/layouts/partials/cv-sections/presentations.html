@@ -1,0 +1,51 @@
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+      <h2 class="subtitle mt-1 mb-1">Presentations</h2>
+      <h3><span class="badge badge-secondary">PEER REVIEWED</span></h3>
+  </div>
+  <div class="col-12 col-lg-8">
+      {{ $exp_len := len .cv.Params.presentations }}
+      {{ range $idx, $key := .cv.Params.presentations }}
+      <div class="row experience">
+          <!-- Timeline -->
+          {{ partial "cv-timeline.html" (dict "idx" $idx "exp_len" $exp_len) }}
+          <!-- Content -->
+          <div class="col py-2">
+              <div class="card">
+                  <div class="card-body">
+                      <div class="info primary">
+                          {{ .presentation | markdownify }}
+                          <div class="metadata mt-3">{{ .date }}</div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      {{ end }}
+  </div>
+</div>
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+      <h3><span class="badge badge-secondary">INVITED</span></h3>
+  </div>
+  <div class="col-12 col-lg-8">
+      {{ $exp_len := len .cv.Params.invited_presentations }}
+      {{ range $idx, $key := .cv.Params.invited_presentations }}
+      <div class="row experience">
+          <!-- Timeline -->
+          {{ partial "cv-timeline.html" (dict "idx" $idx "exp_len" $exp_len) }}
+          <!-- Content -->
+          <div class="col py-2">
+              <div class="card">
+                  <div class="card-body">
+                      <div class="info primary">
+                          {{ .presentation | markdownify }}
+                          <div class="metadata mt-3">{{ .date }}</div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      {{ end }}
+  </div>
+</div>
