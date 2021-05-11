@@ -6,12 +6,15 @@
         <h1 class="title mb-4">CV</h1>
         <!-- the order of cv sections is based on the cv_order field, an updatable widget in the CMS -->
         {{ range $idx, $key := $cv.Params.cv_order }}
+        <!-- only display section if "hide_section" is not true (or if "hide_section" is not set) -->
+        {{ if or (not .hide_section) (eq .hide_section false) }}
         <!-- here we derive the path of the cv section partial template from .section_name -->
         {{ $section_path := lower .section_name }}
         {{ $section_path := replace $section_path " " "-" }}
         {{ $section_path := printf "%s%s%s" "cv-sections/" $section_path ".html" }}
         <!-- now that we have the path, load up the partial template -->
         {{ partial $section_path (dict "cv" $cv) }}
+        {{ end }}
         {{ end }}
     </div>
 </section>
