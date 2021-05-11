@@ -11,7 +11,7 @@ cv_order:
   - section_name: Other Professional Experience
   - section_name: Service
   - section_name: Training
-  - hide_section: true
+  - hide_section: false
     section_name: Memberships
 education:
   - date: June 2023 (expected)
