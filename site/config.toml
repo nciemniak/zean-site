@@ -6,14 +6,11 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params]
     theme_color = "#574CDD"
-    description = "Portfolio of Alexis Collado, UX Designer"
+    description = "Annie Zean Dunbar is a Doctoral student at the Graduate School of Social Work at the University of Denver"
     description_photo = "portfolio.jpg"
     favicon = "favicon.png"
     logo = "logo.png"
     email = "dunbar.annie@gmail.com "
-    facebook = ""
-    twitter = "lexiscollado"
-    linkedin = "https://www.linkedin.com/in/alexander-hans-collado-jr-9444146a"
 
 [params.nav]
     enable = true
