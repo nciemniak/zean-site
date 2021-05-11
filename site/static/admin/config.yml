@@ -32,7 +32,7 @@ collections:
       fields:
         - {label: "CV Order", name: "cv_order", widget: "list", allow_add: false, hint: "*drag and drop the section names to change the order in which they will appear on the site", fields: [
             {label: "Section Name", name: section_name, widget: string},
-            {label: "Hide Section", name: hide_section, widget: boolean, hint: "*when turned on, section will be hidden on the site"}
+            {label: "Hide Section", name: hide_section, widget: boolean, required: false, hint: "*when turned on, section will be hidden on the site"}
         ]}
         - {label: "Education", name: education, widget: list, fields: [
             {label: University, name: university, widget: string}, 
