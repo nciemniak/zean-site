@@ -11,7 +11,8 @@ cv_order:
   - section_name: Other Professional Experience
   - section_name: Service
   - section_name: Training
-  - section_name: Memberships
+  - hide_section: true
+    section_name: Memberships
 education:
   - date: June 2023 (expected)
     degree: Doctor of Philosophy
