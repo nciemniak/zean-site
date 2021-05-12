@@ -50,6 +50,6 @@ social:
   linkedin: 'https://www.linkedin.com/in/anniezeandunbar/'
   twitter: 'https://twitter.com/anniezeanbean'
   wordpress: 'https://vocalfryblog.wordpress.com'
-cv: uploads/AZ Dunbar CV DU GSSW_June 2020.pdf
+cv: uploads/AZ Dunbar CV DU GSSW_February 2021.pdf
 ---
 
