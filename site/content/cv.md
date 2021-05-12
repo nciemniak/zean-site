@@ -4,13 +4,13 @@ cv_order:
   - section_name: Research Interests
   - section_name: Teaching Interests
   - section_name: Research Experience
-  - section_name: Grants and Fellowships
   - section_name: Publications
   - section_name: Presentations
   - section_name: Teaching Experience
   - section_name: Other Professional Experience
   - section_name: Service
   - section_name: Training
+  - section_name: Grants and Fellowships
   - hide_section: false
     section_name: Memberships
 education:
