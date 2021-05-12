@@ -1,9 +1,7 @@
 ---
 about:
   about: >-
-    **Annie Zean Dunbar is an educator and social worker, and has worked in
-    multicultural communities as a program manager, survey researcher, and case
-    manager.**
+    **Annie Zean Dunbar is a researcher, educator, and social worker.**
 
 
     Her research interests include race and identity formation, trauma and
