@@ -30,29 +30,30 @@ education:
     school: ''
     university: Simmons University
 research_interests:
-  - Refugee Integration
-  - Public Policy
-  - Nonprofit organizations
-  - Immigration
-  - Race and Racialization
-  - Racial justice
-  - Social Justice
-  - Marginalized populations
+  - >-
+    Refugee/Immigrant Integration; Organizational Theory; Mutual Aid
+    Organizations; Immigration
+  - Race(ism)
+  - >-
+    and Racialization; Racial justice and equity; Social Justice and Human
+    Rights; Marginalization and Liberation
 teaching_interests:
-  - interest: 'Power, Privilege, and Oppression'
   - interest: Refugee and Immigrant Social Work
   - interest: Theory
-  - interest: Social Policy
+  - interest: 'Power, Privilege, and Oppression'
   - interest: Praxis in Social Work
+  - interest: Social Policy
 research_experience:
   - contact: Dr. Ramona Beltran
     date: September 2019 - present
     details: >-
-      Provide data management for Our Stories, Our Medicine Archives (OSOMA)
-      project and assist with preparation of data and analysis (forthcoming).
-      Assist in grant writing and seeking for research projects.
+      Support data collection and management  for Our Stories, Our Medicine
+      Archives (OSOMA) project, a digital archive and website focused on
+      indeginous methodologies and teachings about health and medicine. Assist
+      with data analysis and community advisory support. Provide grant writing
+      and seeking support for research projects.
     name: 'Our Stories, Our Medicine Archives (OSOMA)'
-    position: Graduate Teaching Assistant
+    position: Graduate Research Assistant
   - contact: 'Dr. Arin Reeves '
     date: May 2018 - February 2019
     details: >-
@@ -78,6 +79,14 @@ research_experience:
       area.
     name: New Communities Study
     position: Research Assistant
+  - contact: Dr. Kimberly Bender and Danielle Littman
+    date: March 2020-Present
+    details: >-
+      Conduct data collection, management, and analysis for a project examining
+      the ways mutual aid as a community care strategy impacts the present and
+      future within communities in the West.
+    name: Mutual Aid Research Project
+    position: 'Co-Investigator '
 grants:
   - details: 'SSHRC-CRSH Connection Grant, $3300 CAD'
     name: >-
