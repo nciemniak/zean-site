@@ -54,6 +54,14 @@ research_experience:
       and seeking support for research projects.
     name: 'Our Stories, Our Medicine Archives (OSOMA)'
     position: Graduate Research Assistant
+  - contact: Dr. Kimberly Bender and Danielle Littman
+    date: March 2020-Present
+    details: >-
+      Conduct data collection, management, and analysis for a project examining
+      the ways mutual aid as a community care strategy impacts the present and
+      future within communities in the West.
+    name: Mutual Aid Research Project
+    position: 'Co-Investigator '
   - contact: 'Dr. Arin Reeves '
     date: May 2018 - February 2019
     details: >-
@@ -79,15 +87,21 @@ research_experience:
       area.
     name: New Communities Study
     position: Research Assistant
-  - contact: Dr. Kimberly Bender and Danielle Littman
-    date: March 2020-Present
-    details: >-
-      Conduct data collection, management, and analysis for a project examining
-      the ways mutual aid as a community care strategy impacts the present and
-      future within communities in the West.
-    name: Mutual Aid Research Project
-    position: 'Co-Investigator '
 grants:
+  - details: >-
+      Graduate Education Doctoral Fellowship for Inclusive Engagement for
+      2021-22, $9000
+    name: University of Denver
+  - details: >-
+      Graduate School of Social Work Summer Mentored Scholar Award Summer 2021,
+      $1750
+    name: University of Denver
+  - details: >-
+      Graduate School of Social Work Summer Mentored Scholar Award Summer 2020,
+      $3500
+    name: University of Denver
+  - details: 'Graduate Education Doctoral Fellowship 2019-2020, $9,000'
+    name: University of Denver
   - details: 'SSHRC-CRSH Connection Grant, $3300 CAD'
     name: >-
       Knowledge Cluster Project: Connecting Emerging Scholars and Practitioners
@@ -168,6 +182,10 @@ invited_presentations:
   - date: September 2017
     presentation: "_Refugee Resettlement Process._\r\\\nHyde Park Refugee Project, Coming to America. _Conference Presenter._"
 teaching_exp:
+  - date: 'Summer Quarters 2020, 2021'
+    details: 'SOWK 4340 Leadership and Supervision Skills '
+    location: Graduate School of Social Work University of Denver
+    position: Adjunct Instructor
   - date: September-December 2009
     details: >-
       Simmons College First Year Experience, a semester long Pass/Fail course
@@ -175,7 +193,7 @@ teaching_exp:
     location: Simmons University
     position: Co-Facilitator
 professional_exp:
-  - date: 2018-2020
+  - date: 2018-present
     details:
       - >-
         Execute all social media outreach and newsletter digest. Lead on ESPMI
