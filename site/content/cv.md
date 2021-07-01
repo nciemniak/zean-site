@@ -47,19 +47,23 @@ research_experience:
   - contact: Dr. Ramona Beltran
     date: September 2019 - present
     details: >-
-      Support data collection and management  for Our Stories, Our Medicine
-      Archives (OSOMA) project, a digital archive and website focused on
-      indeginous methodologies and teachings about health and medicine. Assist
-      with data analysis and community advisory support. Provide grant writing
-      and seeking support for research projects.
+      Support data collection and management for [Our Stories, Our Medicine
+      Archives (OSOMA)
+      project](https://socialwork.du.edu/news/healing-historical-trauma), a
+      digital archive and website focused on indeginous methodologies and
+      teachings about health and medicine. Assist with data analysis and
+      community advisory support. Provide grant writing and grantseeking for
+      research projects.
     name: 'Our Stories, Our Medicine Archives (OSOMA)'
     position: Graduate Research Assistant
   - contact: Dr. Kimberly Bender and Danielle Littman
     date: March 2020-Present
     details: >-
-      Conduct data collection, management, and analysis for a project examining
-      the ways mutual aid as a community care strategy impacts the present and
-      future within communities in the West.
+      Conduct data collection, management, and [analysis for a project examining
+      the ways mutual aid
+      ](https://socialwork.du.edu/news/social-work-and-mutual-aid)as a community
+      care strategy impacts the present and future within communities in the
+      West.
     name: Mutual Aid Research Project
     position: 'Co-Investigator '
   - contact: 'Dr. Arin Reeves '
@@ -112,6 +116,18 @@ grants:
     name: Buffett Institute for Global Studies
 pubs:
   - >-
+    Littman, D.M., Boyett, M., Bender, K., **Dunbar, A.Z.**, Santarella, M.,
+    Becker-Hafnor, T., Saavedra, K., Milligan, T. (under review) Values and
+    beliefs underlying mutual aid: An exploration of collective care during the
+    COVID-19 pandemic \[revise and resubmit] *Journal for the Society of Social
+    Work and Research.*
+  - >-
+    Bender, K., Littman, D.L., **Dunbar, Z**. Boyetta, M., Milligana, T.,
+    Santarella, M., Becker-Hafnor, T., (under review) Rapid Emergent Media Scan
+    of Digital Mutual Aid Organizing during the COVID-19 Pandemic. \[revise and
+    resubmit] Speical Issue “Digital Organizing: Definitions,
+    Applications,Methods and Ethic” Journal of Community Practice.
+  - >-
     Beltran, R., Alvarez, A., Colón, L., Alamillo, X., Dunbar, A.Z. (2020). La
     Cultura Cura: An Exploration of Enculturation in A Community-Based
     Culture-Centered HIV Prevention Curriculum for Indigenous Youth. Special
@@ -140,20 +156,47 @@ art_pubs:
     the Road Begins, an Anthology. The Cultural Organization of Lowell (COOL),
     Inc.
 presentations:
-  - date: Postponed to June 2021
+  - date: June 2021
     presentation: >-
-      *Integration and Racialization of Black Immigrants in the United
-      States.*                                                Memories in
-      Transit, Centre for the Study of Global Human Movement and Cambridge
-      University. United Kingdom. *Paper Presentation.*
-  - date: Postponed to July 2021
-    presentation: ' *Owning the Wood That Becomes the Table: Moving Beyond Asking for A Seat at the Table - Millennials and Gen Z Refugees - Creating Wealth, Shaping Policy and Reclaiming the Decision-making Process.*  International Association for the Study of Forced Migration (IASFM) Annual  Conference 2020: Disrupting Theory, Unsettling Practice: Towards Transformative Forced Migration Scholarship and Policy. Accra, Ghana. *Roundtable.*'
+      *"Because it's not going to be pretty unless we work together:" Where does
+      mutual aid fit into the future of social work?* Panel presentation. What
+      social work does the world need now? Social Work Futures? Research Group
+      at Glasgow Caledonian University. The United Kingdom. Digital Conference.
+      **Dunbar, A. Z.**, Milligan, T., Littman, D.M., Bender, K.,
+  - date: November 2020
+    presentation: ' Cultural Interpretation: a phenomenological study of refugee service providers with migration experiences. *Poster Presentation*. The Council on Social Work Education (CSWE) 2020 Annual Program Meeting (APM). Virtual due to COVID-19.'
+  - date: Accepted Presentation June 2020
+    presentation: ' *Owning the Wood That Becomes the Table: Moving Beyond Asking for A Seat at the Table - Millennials and Gen Z Refugees - Creating Wealth, Shaping Policy and Reclaiming the Decision-making Process.*  International Association for the Study of Forced Migration (IASFM) Annual  Conference 2020: Disrupting Theory, Unsettling Practice: Towards Transformative Forced Migration Scholarship and Policy. Accra, Ghana. *Roundtable.* Akinyemi, A., **Dunbar, A.Z.**, Kuntzelman, C., Brown Crosby, D., Sorensen, J., & Yacob-Haliso, O. Chair Bah, J.'
   - date: May 2018
-    presentation: "_Methodological Challenges in Forced Migration Research_\r\\\nCanadian Association for Refugee and Forced Migration Studies (CARFMS) 2018 Ottawa, Canada. _Panel Discussant._"
+    presentation: >-
+      *Methodological Challenges in Forced Migration Research* \
+
+      Canadian Association for Refugee and Forced Migration Studies (CARFMS)
+      2018 Ottawa, Canada. *Panel Discussant.* Wojnarowicz, K., **Dunbar,
+      A.Z**., Khan, T., Jackson, S., Oucho, L., & Vanyoro, K.
   - date: May 2018
-    presentation: "_Bridging Forced Migration Research to Policy and Practice_\r\\\nCanadian Association for Refugee and Forced Migration Studies (CARFMS) 2018 Ottawa, Canada. _Panel Discussant._"
+    presentation: >-
+      *Bridging Forced Migration Research to Policy and Practice* \
+
+      Canadian Association for Refugee and Forced Migration Studies (CARFMS)
+      2018 Ottawa, Canada. *Panel Discussant.* Ciaschi, P., Frydenlund, E.,
+      Bilotta,N., & **Dunbar, A.Z.**
+  - date: May 2018
+    presentation: >-
+      *Methodological Challenges in Forced Migration Research* \
+
+      International Association for the Study of Forced Migration (IASFM) Annual
+      Conference 2018:  Whither Refugees? Restrictionism, Crises and Precarity
+      Writ Large. *Invited Panel Discussant.* Wojnarowicz, K., **Dunbar, A.Z**.,
+      Khan, T., Jackson, S., Oucho, L., & Vanyoro, K.
   - date: July 2018
-    presentation: "_Methodological Challenges in Forced Migration Research_\r\\\nInternational Association for the Study of Forced Migration (IASFM) Annual Conference 2018:  Whither Refugees? Restrictionism, Crises and Precarity Writ Large. _Invited Panel Discussant._"
+    presentation: >-
+      *Bridging Forced Migration Research to Policy and Practice.* \
+
+      International Association for the Study of Forced Migration (IASFM)
+      Annual  Conference 2018:  Whither Refugees? Restrictionism, Crises and
+      Precarity Writ Large. *Invited Panel Discussant.* Wojnarowicz, K.,
+      **Dunbar, A.Z.,** Khan, T., Jackson, S., Oucho, L., & Vanyoro, K.
   - date: March 2017
     presentation: >-
       _Community, Dialogue, and the Barriers to Resettlement: A look at
@@ -168,15 +211,12 @@ presentations:
       _Community, Dialogue, and the Barriers to Resettlement: A look at Chicago_
       11th Annual Center for Refugee Studies, York University Student Caucus 
       Conference: The Production of Forced Migration. _Working Paper Presenter._
-  - date: July 2018
-    presentation: "_Bridging Forced Migration Research to Policy and Practice._\r\\\nInternational Association for the Study of Forced Migration (IASFM) Annual \rConference 2018:  Whither Refugees? Restrictionism, Crises and Precarity Writ Large. _Invited Panel Discussant._"
 invited_presentations:
   - date: March 2021
     presentation: >-
-      *Mutual Aid as Emergent Practice: Understanding Mutual Aid in the Past,
-      Present and Future.* 
-
-       University of Denver Graduate School of Social Work. Virtual Continuing Education workshop in the Civic Series.
+      *`_`Mutual Aid as Emergent Practice: Understanding Mutual Aid in the Past,
+      Present and Future._\* University of Denver Graduate School of Social
+      Work. \_Virtual Continuing Education workshop in the Civic Series.\_
   - date: November 2017
     presentation: "_Teaching about Refugees, Forced Migration, and African Integration._ \r\\\nAfrican Studies Association (ASA). _Conference Presenter._"
   - date: September 2017
