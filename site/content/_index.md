@@ -4,9 +4,9 @@ about:
     **Annie Zean Dunbar is a researcher, educator, and social worker.**
 
 
-    Her research interests include race and identity formation, trauma and
-    reconciliation, secondary migration, mutual aid and community care, and long
-    term refugee and migrant resettlement in the United States.  Zean’s creative
+    Her research interests include racial identity formation, trauma and
+    reconciliation, mutual aid and community care, and long term refugee and
+    migrant resettlement organizations in the United States.  Zean’s creative
     writing centers community conceptions of truth and omission, the liminal
     space between understanding self and others, and an examination of memory.
     She is a cofounder of Interstitial Media Arts (IMA) a creative consulting
