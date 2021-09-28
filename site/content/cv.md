@@ -47,23 +47,19 @@ research_experience:
   - contact: Dr. Ramona Beltran
     date: September 2019 - present
     details: >-
-      Support data collection and management for [Our Stories, Our Medicine
-      Archives (OSOMA)
-      project](https://socialwork.du.edu/news/healing-historical-trauma), a
-      digital archive and website focused on indeginous methodologies and
-      teachings about health and medicine. Assist with data analysis and
-      community advisory support. Provide grant writing and grantseeking for
-      research projects.
+      Support data collection and management for Our Stories, Our Medicine
+      Archives (OSOMA) project, a digital archive and website focused on
+      indeginous methodologies and teachings about health and medicine. Assist
+      with data analysis and community advisory support. Provide grant writing
+      and grantseeking for research projects.
     name: 'Our Stories, Our Medicine Archives (OSOMA)'
     position: Graduate Research Assistant
   - contact: Dr. Kimberly Bender and Danielle Littman
     date: March 2020-Present
     details: >-
-      Conduct data collection, management, and [analysis for a project examining
-      the ways mutual aid
-      ](https://socialwork.du.edu/news/social-work-and-mutual-aid)as a community
-      care strategy impacts the present and future within communities in the
-      West.
+      Conduct data collection, management, and analysis for a project examining
+      the ways mutual aid as a community care strategy impacts the present and
+      future within communities in the West.
     name: Mutual Aid Research Project
     position: 'Co-Investigator '
   - contact: 'Dr. Arin Reeves '
@@ -117,19 +113,19 @@ grants:
 pubs:
   - >-
     Littman, D.M., Boyett, M., Bender, K., **Dunbar, A.Z.**, Santarella, M.,
-    Becker-Hafnor, T., Saavedra, K., Milligan, T. (under review) Values and
-    beliefs underlying mutual aid: An exploration of collective care during the
-    COVID-19 pandemic \[revise and resubmit] *Journal for the Society of Social
-    Work and Research.*
+    Becker-Hafnor, T., Saavedra, K., Milligan, T. (2021) Values and beliefs
+    underlying mutual aid: An exploration of collective care during the COVID-19
+    pandemic \[revise and resubmit] *Journal for the Society of Social Work and
+    Research.*
   - >-
-    Bender, K., Littman, D.L., **Dunbar, Z**. Boyetta, M., Milligana, T.,
-    Santarella, M., Becker-Hafnor, T., (under review) Rapid Emergent Media Scan
-    of Digital Mutual Aid Organizing during the COVID-19 Pandemic. \[revise and
-    resubmit] Speical Issue “Digital Organizing: Definitions,
-    Applications,Methods and Ethic” Journal of Community Practice.
+    Bender, K., Littman, D.L., **Dunbar, A. Z**. Boyetta, M., Milligana, T.,
+    Santarella, M., Becker-Hafnor, T., (2021) Emergent media scan of digital
+    mutual aid organizing during the COVID-19 pandemic.  Speical Issue “Digital
+    Organizing: Definitions, Applications,Methods and Ethic” *Journal of
+    Community Practice*. DOI: 10.1080/10705422.2021.1980477
   - >-
-    Beltran, R., Alvarez, A., Colón, L., Alamillo, X., Dunbar, A.Z. (2020). La
-    Cultura Cura: An Exploration of Enculturation in A Community-Based
+    Beltran, R., Alvarez, A., Colón, L., Alamillo, X., **Dunbar, A.Z.** (2020).
+    La Cultura Cura: An Exploration of Enculturation in A Community-Based
     Culture-Centered HIV Prevention Curriculum for Indigenous Youth. Special
     Issue "Community-engaged Indigenous Research Across the Globe" Genealogy,
     Vol 4(1).
