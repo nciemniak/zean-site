@@ -6,12 +6,12 @@ about:
 
     Her research interests include racial identity formation, trauma and
     reconciliation, mutual aid and community care, and long term refugee and
-    migrant resettlement organizations in the United States.  Zean’s creative
-    writing centers community conceptions of truth and omission, the liminal
-    space between understanding self and others, and an examination of memory.
-    She is a cofounder of Interstitial Media Arts (IMA) a creative consulting
-    firm and Connect-the- Dots, an arts based organization focused on examining
-    social constructs and human connection. 
+    (im)migrant resettlement organizations in the United States.  Zean’s
+    creative writing centers community conceptions of truth and omission, the
+    liminal space between understanding self and others, and an examination of
+    memory. She is a cofounder of Interstitial Media Arts (IMA) a creative
+    consulting firm and Connect-the- Dots, an arts based organization focused on
+    examining social constructs and human connection. 
 
 
     Zean is a graduate from the Crown Family School of Social Work, Policy and
