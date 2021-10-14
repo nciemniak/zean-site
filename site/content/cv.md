@@ -115,8 +115,7 @@ pubs:
     Littman, D.M., Boyett, M., Bender, K., **Dunbar, A.Z.**, Santarella, M.,
     Becker-Hafnor, T., Saavedra, K., Milligan, T. (2021) Values and beliefs
     underlying mutual aid: An exploration of collective care during the COVID-19
-    pandemic \[revise and resubmit] *Journal for the Society of Social Work and
-    Research.*
+    pandemic. *Journal for the Society of Social Work and Research.*
   - >-
     Bender, K., Littman, D.L., **Dunbar, A. Z**. Boyetta, M., Milligana, T.,
     Santarella, M., Becker-Hafnor, T., (2021) Emergent media scan of digital
@@ -131,7 +130,7 @@ pubs:
     Vol 4(1).
   - >-
     **Dunbar, A.Z.**, Lloyd, J., Ramirez, L., Taylor, S. (2016). Outcome
-    Evaluation of an International Diversity Curriculum, Advocates Forum,
+    Evaluation of an International Diversity Curriculum. *Advocates Forum,*
     University of Chicago.
 art_pubs:
   - >-
