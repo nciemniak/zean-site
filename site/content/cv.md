@@ -151,6 +151,22 @@ art_pubs:
     the Road Begins, an Anthology. The Cultural Organization of Lowell (COOL),
     Inc.
 presentations:
+  - date: November 2021
+    presentation: >-
+      *Interrogating help: What becomes of social workers when we center mutual
+      aid?*\
+
+      The Council on Social Work Education (CSWE) 2021 Annual Program Meeting
+      (APM). Social, Economic, and Environmental Justice Track. *Accepted
+      Interactive Workshop.* **Dunbar, A.Z.,** Littman, D.M., Bender, K.
+  - date: November 2021
+    presentation: >-
+      *Understanding how preparation and professional development impact
+      learning culture in child welfare.* \
+
+      The Council on Social Work Education (CSWE) 2021 Annual Program Meeting
+      (APM). Child Welfare Track.  *Accepted Poster.* **Dunbar, A.Z.,** Shah, P.
+      Park, I. Y., and He, A.
   - date: June 2021
     presentation: >-
       *"Because it's not going to be pretty unless we work together:" Where does
@@ -209,9 +225,9 @@ presentations:
 invited_presentations:
   - date: March 2021
     presentation: >-
-      *`_`Mutual Aid as Emergent Practice: Understanding Mutual Aid in the Past,
-      Present and Future._\* University of Denver Graduate School of Social
-      Work. \_Virtual Continuing Education workshop in the Civic Series.\_
+      *Mutual Aid as Emergent Practice: Understanding Mutual Aid in the Past,
+      Present and Future.* University of Denver Graduate School of Social Work.
+      Virtual Continuing Education workshop in the Civic Series.
   - date: November 2017
     presentation: "_Teaching about Refugees, Forced Migration, and African Integration._ \r\\\nAfrican Studies Association (ASA). _Conference Presenter._"
   - date: September 2017
