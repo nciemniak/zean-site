@@ -243,6 +243,10 @@ teaching_exp:
       about college acclimation for first year students.
     location: Simmons University
     position: Co-Facilitator
+  - date: Spring 2022
+    details: Community and Macro Social Work Theory and Practice section 504
+    location: Graduate School of Social Work
+    position: Instructor
 professional_exp:
   - date: 2018-present
     details:
