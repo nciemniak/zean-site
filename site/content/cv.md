@@ -233,6 +233,10 @@ invited_presentations:
   - date: September 2017
     presentation: "_Refugee Resettlement Process._\r\\\nHyde Park Refugee Project, Coming to America. _Conference Presenter._"
 teaching_exp:
+  - date: Spring 2022
+    details: Community and Macro Social Work Theory and Practice section 504
+    location: Graduate School of Social Work
+    position: Instructor
   - date: 'Summer Quarters 2020, 2021'
     details: 'SOWK 4340 Leadership and Supervision Skills '
     location: Graduate School of Social Work University of Denver
@@ -243,10 +247,6 @@ teaching_exp:
       about college acclimation for first year students.
     location: Simmons University
     position: Co-Facilitator
-  - date: Spring 2022
-    details: Community and Macro Social Work Theory and Practice section 504
-    location: Graduate School of Social Work
-    position: Instructor
 professional_exp:
   - date: 2018-present
     details:
