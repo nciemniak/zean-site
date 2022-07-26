@@ -44,17 +44,6 @@ teaching_interests:
   - interest: Praxis in Social Work
   - interest: Social Policy
 research_experience:
-  - contact: Annie Zean Dunbar
-    date: 2019-2021
-    details: >-
-      Created and executed a pilot study which looked at the lived experience of
-      social service workers who are former refugees and immigrants to the
-      United States. A sample of six (n=6) participants were interviewed. Data
-      analysis using inducive coding methods, and themes were orgnzed based on
-      participant perspectives and exerpts. Findings were shared at the CSWE
-      2020 Annual Meeting Program.
-    name: 'Refugee Social Service Providers: A Phenomenological Study'
-    position: 'Principle Investigator '
   - contact: Dr. Ramona Beltran
     date: September 2019 - present
     details: >-
@@ -76,6 +65,31 @@ research_experience:
       infographics.
     name: Mutual Aid Research Project
     position: 'Co-Investigator '
+  - contact: Dr. Andrew Steward
+    date: March 2021-May 2022
+    details: >-
+      Analyzed data for this qualitative study explored the following research
+      question from a phenomenological perspective: “What is the lived
+      experience of racialized ageism among diverse older adults?” Twenty
+      participants 60+ years of age (M=69) in the U.S. Mountain West identifying
+      as Black, Latino(a), Asian-American/Pacific Islander, Indigenous, or White
+      engaged in a one-hour interview between February and July 2021. Supported
+      the writing of peer-review manuscripts (in progress).
+    name: >-
+      Exploring the Lived Experience of Racialized Ageism Among Older Adults: A
+      Phenomenological Study
+    position: 'Co-Investigator '
+  - contact: Annie Zean Dunbar
+    date: 2019-2021
+    details: >-
+      Created and executed a pilot study which looked at the lived experience of
+      social service workers who are former refugees and immigrants to the
+      United States. A sample of six (n=6) participants were interviewed. Data
+      analysis using inducive coding methods, and themes were orgnzed based on
+      participant perspectives and exerpts. Findings were shared at the CSWE
+      2020 Annual Meeting Program.
+    name: 'Refugee Social Service Providers: A Phenomenological Study'
+    position: 'Principle Investigator '
   - contact: 'Dr. Arin Reeves '
     date: May 2018 - February 2019
     details: >-
@@ -101,20 +115,6 @@ research_experience:
       area.
     name: New Communities Study
     position: Research Assistant
-  - contact: Dr. Andrew Steward
-    date: March 2021-May 2022
-    details: >-
-      Analyzed data for this qualitative study explored the following research
-      question from a phenomenological perspective: “What is the lived
-      experience of racialized ageism among diverse older adults?” Twenty
-      participants 60+ years of age (M=69) in the U.S. Mountain West identifying
-      as Black, Latino(a), Asian-American/Pacific Islander, Indigenous, or White
-      engaged in a one-hour interview between February and July 2021. Supported
-      the writing of peer-review manuscripts (in progress).
-    name: >-
-      Exploring the Lived Experience of Racialized Ageism Among Older Adults: A
-      Phenomenological Study
-    position: 'Co-Investigator '
 grants:
   - details: >-
       Graduate Education Doctoral Fellowship for Inclusive Engagement for
