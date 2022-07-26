@@ -44,37 +44,51 @@ teaching_interests:
   - interest: Praxis in Social Work
   - interest: Social Policy
 research_experience:
+  - contact: Annie Zean Dunbar
+    date: 2019-2021
+    details: >-
+      Created and executed a pilot study which looked at the lived experience of
+      social service workers who are former refugees and immigrants to the
+      United States. A sample of six (n=6) participants were interviewed. Data
+      analysis using inducive coding methods, and themes were orgnzed based on
+      participant perspectives and exerpts. Findings were shared at the CSWE
+      2020 Annual Meeting Program.
+    name: 'Refugee Social Service Providers: A Phenomenological Study'
+    position: 'Principle Investigator '
   - contact: Dr. Ramona Beltran
     date: September 2019 - present
     details: >-
-      Support data collection and management for Our Stories, Our Medicine
-      Archives (OSOMA) project, a digital archive and website focused on
-      indeginous methodologies and teachings about health and medicine. Assist
-      with data analysis and community advisory support. Provide grant writing
-      and grantseeking for research projects.
+      Conduct data collection, management, and analysis for a project which
+      looks at Indigenous health knowlede and practices and the creation of an
+      archive of Indigenous health and medicine informaiton. Supports the
+      writing of peer-reviewed articles that use an Inidgenist feminist
+      perspective.
     name: 'Our Stories, Our Medicine Archives (OSOMA)'
     position: Graduate Research Assistant
   - contact: Dr. Kimberly Bender and Danielle Littman
     date: March 2020-Present
     details: >-
-      Conduct data collection, management, and analysis for a project examining
-      the ways mutual aid as a community care strategy impacts the present and
-      future within communities in the West.
+      Co-created this qualitative study which looks at the expereiencs of people
+      engaging in mutual aid pracices and those in intentional communities at
+      the onset of the COVID-19 pandemic. Conducted analysis on these related to
+      the futures of mutual aid using a foresight practice and a futures lens.
+      Assists with preparation of public facing outputs including op-eds and
+      infographics.
     name: Mutual Aid Research Project
     position: 'Co-Investigator '
   - contact: 'Dr. Arin Reeves '
     date: May 2018 - February 2019
     details: >-
-      Provide qualitative and quantitative data analysis and assist with
-      preparation of reports and client projects on diversity and inclusion,
-      implicit bias, and leadership development.
+      Provide qualitative and quantitative data analysis for client-drive
+      projects which looked at compnay experienes with Diversity, Equity,
+      Inclusion, and implicite bias.
     name: 'Nextions, LLC. Multiple client-based research projects and studies'
     position: Research Projects Manager
   - contact: 'Dr. Carol Geffner and Mrs. Barbara Ladon, MA'
     date: March 2015 - June 2018
     details: >-
       Provide qualitative and quantitative data analysis for healthcare related
-      projects.
+      projects. Supported grant writing and research.
     name: >-
       Newpoint Healthcare Advisors, Multiple client-based research projects and
       studies
@@ -87,17 +101,20 @@ research_experience:
       area.
     name: New Communities Study
     position: Research Assistant
-  - contact: Annie Zean Dunbar
-    date: 2019-2021
+  - contact: Dr. Andrew Steward
+    date: March 2021-May 2022
     details: >-
-      Created and executed a pilot study which looked at the lived experience of
-      social service workers who are former refugees and immigrants to the
-      United States. A sample of six (n=6) participants were interviewed. Data
-      analysis using inducive coding methods, and themes were orgnzed based on
-      participant perspectives and exerpts. Findings were shared at the CSWE
-      2020 Annual Meeting Program.
-    name: 'Refugee Social Service Providers: A Phenomenological Study'
-    position: 'Principle Investigator '
+      Analyzed data for this qualitative study explored the following research
+      question from a phenomenological perspective: “What is the lived
+      experience of racialized ageism among diverse older adults?” Twenty
+      participants 60+ years of age (M=69) in the U.S. Mountain West identifying
+      as Black, Latino(a), Asian-American/Pacific Islander, Indigenous, or White
+      engaged in a one-hour interview between February and July 2021. Supported
+      the writing of peer-review manuscripts (in progress).
+    name: >-
+      Exploring the Lived Experience of Racialized Ageism Among Older Adults: A
+      Phenomenological Study
+    position: 'Co-Investigator '
 grants:
   - details: >-
       Graduate Education Doctoral Fellowship for Inclusive Engagement for
