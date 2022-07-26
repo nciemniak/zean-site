@@ -1,18 +1,18 @@
 ---
 cv_order:
   - section_name: Education
-  - section_name: Research Interests
-  - section_name: Teaching Interests
   - section_name: Research Experience
   - section_name: Publications
   - section_name: Presentations
   - section_name: Teaching Experience
-  - section_name: Other Professional Experience
   - section_name: Service
-  - section_name: Training
+  - section_name: Other Professional Experience
   - section_name: Grants and Fellowships
+  - section_name: Training
   - hide_section: false
     section_name: Memberships
+  - section_name: Teaching Interests
+  - section_name: Research Interests
 education:
   - date: June 2023 (expected)
     degree: Doctor of Philosophy
@@ -87,6 +87,17 @@ research_experience:
       area.
     name: New Communities Study
     position: Research Assistant
+  - contact: Annie Zean Dunbar
+    date: 2019-2021
+    details: >-
+      Created and executed a pilot study which looked at the lived experience of
+      social service workers who are former refugees and immigrants to the
+      United States. A sample of six (n=6) participants were interviewed. Data
+      analysis using inducive coding methods, and themes were orgnzed based on
+      participant perspectives and exerpts. Findings were shared at the CSWE
+      2020 Annual Meeting Program.
+    name: 'Refugee Social Service Providers: A Phenomenological Study'
+    position: 'Principle Investigator '
 grants:
   - details: >-
       Graduate Education Doctoral Fellowship for Inclusive Engagement for
