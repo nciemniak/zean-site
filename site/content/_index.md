@@ -1,7 +1,7 @@
 ---
 about:
   about: >-
-    **Annie Zean Dunbar is a researcher, educator, and social worker.**
+    **Annie Zean Dunbar is a researcher, educator, social worker, and artist.**
 
 
     Her research interests include racial identity formation, trauma and
@@ -28,7 +28,7 @@ about:
     and referential humor.
   avatar: uploads/avatar-2.png
   blurb: >-
-    Welcome! Bienvenu! Annie Zean Dunbar is a Doctoral student at the Graduate
+    Welcome! Bienvenu! Annie Zean Dunbar is a Doctoral candidate at the Graduate
     School of Social Work at the University of Denver.
 contact:
   address: |-
