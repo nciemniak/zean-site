@@ -138,6 +138,8 @@ grants:
     name: Pozen Family Center for Human Rights Internship
   - details: 'Reframing Research Graduate Student Workshop, $3000'
     name: Buffett Institute for Global Studies
+  - details: 'Outstanding Dissertation Award,$1000'
+    name: University of Denver Graduate School of Social Work
 pubs:
   - >-
     Littman, D.M., Boyett, M., Bender, K., **Dunbar, A.Z.**, Santarella, M.,
