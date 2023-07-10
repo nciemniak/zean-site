@@ -142,6 +142,21 @@ grants:
     name: University of Denver Graduate School of Social Work
 pubs:
   - >-
+    **Dunbar, A.Z.**, Littman, D.M., Boyett, M., Bender, K., Saavedra, K.,
+    Melton, C.C., Milligan, & Bogle, C. (accepted). Using foresight practice to
+    imagine the future(s) of mutual aid. Social Work and Society, Special Issue
+    What social work does the world need now? Social Work Futures?
+  - >-
+    Littman, D.M., Morris, K., Hostetter, C.R., Boyett, M., Bender, K.,
+    Holloway, B., **Dunbar, A. Z.**, & Sarantakos, S (2023). How do participants
+    conceptualize mutual aid in the early months of the COVID-19 pandemic? A
+    critical phenomenological analysis. The Journal of Community Practice.
+    https://doi.org/10.1080/10705422.2023.2210136
+  - >-
+    Thibodeau Shah, P., Park, I.Y., **Dunbar, A.Z.**, and He, A. (2023). What
+    makes a good learning culture? The role of professional development among
+    child welfare workers. Children and Youth Services Review.
+  - >-
     Littman, D.M., Boyett, M., Bender, K., **Dunbar, A.Z.**, Santarella, M.,
     Becker-Hafnor, T., Saavedra, K., Milligan, T. (2021) Values and beliefs
     underlying mutual aid: An exploration of collective care during the COVID-19
