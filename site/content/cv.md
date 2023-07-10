@@ -14,7 +14,7 @@ cv_order:
   - section_name: Teaching Interests
   - section_name: Research Interests
 education:
-  - date: June 2023 (expected)
+  - date: June 2024 (expected)
     degree: Doctor of Philosophy
     details: ''
     school: Graduate School of Social Work
