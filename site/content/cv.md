@@ -157,6 +157,11 @@ pubs:
     makes a good learning culture? The role of professional development among
     child welfare workers. Children and Youth Services Review.
   - >-
+    Steward, A., De Fries, C., **Dunbar, A. Z.**, Trujillo, M., Zhu, Y.,
+    Nicotera, N., & Hasche, L. (2023). A Phenomenological Understanding of the
+    Intersectionality of Ageism and Racism Among Older Adults: Individual-Level
+    Experiences. Journals of Gerontology, Series B: Social Sciences.
+  - >-
     Littman, D.M., Boyett, M., Bender, K., **Dunbar, A.Z.**, Santarella, M.,
     Becker-Hafnor, T., Saavedra, K., Milligan, T. (2021) Values and beliefs
     underlying mutual aid: An exploration of collective care during the COVID-19
