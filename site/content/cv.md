@@ -144,7 +144,7 @@ grants:
 pubs:
   - >-
     **Dunbar, A.Z.**, Littman, D.M., Boyett, M., Bender, K., Saavedra, K.,
-    Melton, C.C., Milligan, & Bogle, C. (accepted). Using foresight practice to
+    Melton, C.C., Milligan, & Bogle, C. (2023). Using foresight practice to
     imagine the future(s) of mutual aid. Social Work and Society, Special Issue
     What social work does the world need now? Social Work Futures?
   - >-
