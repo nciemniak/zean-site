@@ -68,14 +68,12 @@ research_experience:
   - contact: Dr. Kimberly Bender and Dr. Danielle Littman
     date: March 2020-Present
     details: >-
-      Analyzed data for this qualitative study explored the following research
-      question from a phenomenological perspective: “What is the lived
-      experience of racialized ageism among diverse older adults?” Twenty
-      participants 60+ years of age (M=69) in the U.S. Mountain West identifying
-      as Black, Latino(a), Asian-American/Pacific Islander, Indigenous, or White
-      engaged in a one-hour interview between February and July 2021. Supported
-      the writing of peer-reviewed manuscripts [see **Dunbar et al. (2023)**
-      [Using foresight practice to imagine the future(s) of mutual
+      Co-design research project. Provide qualitative data collection and data
+      analysis for research project on the role of mutual aid and community care
+      as a result of the COVID-19 pandemic. Lead manuscript writing, support the
+      building of conceptual frameworks, and provide writing and editing
+      assistance for grants. [see **Dunbar et al. (2023)** [Using foresight
+      practice to imagine the future(s) of mutual
       aid](https://ejournals.bib.uni-wuppertal.de/index.php/sws/article/view/841).]
     name: Mutual Aid Research Project
     position: 'Co-Investigator '
