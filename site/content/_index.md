@@ -26,7 +26,7 @@ about:
     Migration Issues (ESPMI) Network. Zean would describe herself as a post-goth
     black woman, perpetual optimist, with an affinity for commas, sing-alongs,
     and referential humor.
-  avatar: uploads/avatar-2.png
+  avatar: uploads/Annie Zean Dunbar SM (2 of 2).jpg
   blurb: >-
     Welcome! Bienvenu! Annie Zean Dunbar is a Doctoral candidate at the Graduate
     School of Social Work at the University of Denver.
@@ -41,6 +41,6 @@ social:
   linkedin: 'https://www.linkedin.com/in/anniezeandunbar/'
   twitter: 'https://twitter.com/anniezeanbean'
   wordpress: 'https://vocalfryblog.wordpress.com'
-cv: uploads/Dunbar_CV 2023.pdf
+cv: uploads/Dunbar_CV 2024_.pdf
 ---
 
