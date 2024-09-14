@@ -14,22 +14,24 @@ about:
     examining social constructs and human connection. 
 
 
-    Zean is a graduate from the Crown Family School of Social Work, Policy and
-    Practice at the University of Chicago with a program of study in
-    International Social Welfare. Annie Zean is a 2014 Fellow of the Pozen
-    Family Center for Human Rights at the University of Chicago, and holds a
-    certificate in Forced Migration from the Center for Refugee Studies at York
-    University. 
+    Zean received her doctrate from theGraduate School of Social Work at the
+    University of Denver. She  eceived her Masters from the Crown Family School
+    of Social Work, Policy and Practice at the University of Chicago with a
+    program of study in International Social Welfare. Annie Zean is a 2014
+    Fellow of the Pozen Family Center for Human Rights at the University of
+    Chicago, and holds a certificate in Forced Migration from the Center for
+    Refugee Studies at York University. 
 
 
-    She is the Social Media Lead for the Emerging Scholars and Practitioner on
+    She was the  Social Media Lead for the Emerging Scholars and Practitioner on
     Migration Issues (ESPMI) Network. Zean would describe herself as a post-goth
     black woman, perpetual optimist, with an affinity for commas, sing-alongs,
     and referential humor.
   avatar: uploads/Annie Zean Dunbar SM (2 of 2).png
   blurb: >-
-    Welcome! Bienvenu! Annie Zean Dunbar is a Doctoral candidate at the Graduate
-    School of Social Work at the University of Denver.
+    Welcome! Bienvenu! Annie Zean Dunbar is a Clinical Assistnat Professor in
+    the College of Public Service at the University of Colorado, Colorado
+    Springs.
 contact:
   address: |-
     Denver, CO 80238\
