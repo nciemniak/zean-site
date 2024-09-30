@@ -1,7 +1,7 @@
 ---
 about:
   about: >-
-    **Annie Zean Dunbar is a researcher, educator, social worker, and artist.**
+    **Annie Zean Dunbar is a researcher, educator, social worker, and artist.** 
 
 
     Her research interests include racial identity formation, trauma and
@@ -15,7 +15,7 @@ about:
 
 
     Zean received her doctrate from the Graduate School of Social Work at the
-    University of Denver. She  eceived her Masters from the Crown Family School
+    University of Denver. She received her Masters from the Crown Family School
     of Social Work, Policy and Practice at the University of Chicago with a
     program of study in International Social Welfare. Annie Zean is a 2014
     Fellow of the Pozen Family Center for Human Rights at the University of
