@@ -14,7 +14,7 @@ about:
     examining social constructs and human connection. 
 
 
-    Zean received her doctrate from theGraduate School of Social Work at the
+    Zean received her doctrate from the Graduate School of Social Work at the
     University of Denver. She  eceived her Masters from the Crown Family School
     of Social Work, Policy and Practice at the University of Chicago with a
     program of study in International Social Welfare. Annie Zean is a 2014
@@ -29,7 +29,7 @@ about:
     and referential humor.
   avatar: uploads/Annie Zean Dunbar SM (2 of 2).png
   blurb: >-
-    Welcome! Bienvenu! Annie Zean Dunbar is a Clinical Assistnat Professor in
+    Welcome! Bienvenu! Annie Zean Dunbar is a Clinical Assistant Professor in
     the College of Public Service at the University of Colorado, Colorado
     Springs.
 contact:
