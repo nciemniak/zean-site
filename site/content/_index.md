@@ -36,10 +36,10 @@ contact:
   address: |-
     Denver, CO 80238\
     United States
-  email: zean.dunbar@du.edu
+  email: adunbar@uccs.edu
   phone: (508) 572-6333
 social:
-  du_portfolio: 'http://portfolio.du.edu/Zean.Dunbar/page/89306'
+  du_portfolio: 'https://cps.uccs.edu/staff/annie-zean-dunbar'
   linkedin: 'https://www.linkedin.com/in/anniezeandunbar/'
   twitter: 'https://twitter.com/anniezeanbean'
   wordpress: 'https://vocalfryblog.wordpress.com'
