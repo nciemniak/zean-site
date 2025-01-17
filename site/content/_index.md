@@ -9,15 +9,14 @@ about:
     (im)migrant resettlement organizations in the United States.  Zean’s
     creative writing centers community conceptions of truth and omission, the
     liminal space between understanding self and others, and an examination of
-    memory. She is a co-founder of Interstitial Media Arts (IMA) a creative
-    consulting firm and Connect-the- Dots, an arts-based organization focused on
-    examining social constructs and human connection. 
+    memory. She is a co-founder of Connect-the- Dots, an arts-based organization
+    focused on examining social constructs and human connection. 
 
 
-    Zean received her doctrate from the Graduate School of Social Work at the
-    University of Denver. She received her Masters from the Crown Family School
+    Zean received her doctorate from the Graduate School of Social Work at the
+    University of Denver. She received her Master's from the Crown Family School
     of Social Work, Policy and Practice at the University of Chicago with a
-    program of study in International Social Welfare. Annie Zean is a 2014
+    program of study in International Social Welfare. Annie Zean was a 2014
     Fellow of the Pozen Family Center for Human Rights at the University of
     Chicago, and holds a certificate in Forced Migration from the Center for
     Refugee Studies at York University. 
