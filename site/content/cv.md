@@ -287,6 +287,13 @@ invited_presentations:
   - date: September 2017
     presentation: "_Refugee Resettlement Process._\r\\\nHyde Park Refugee Project, Coming to America. _Conference Presenter._"
 teaching_exp:
+  - date: August 2024- Present
+    details: >-
+      Prepare and teach courses within the  Bachelor of Social Work (BSW) and
+      Master of Social Work (MSW) curricula with a focus on the social work
+      field practice courses and support.
+    location: 'University of Colorado Colorado Springs '
+    position: 'Clinical Assistant Professor '
   - date: Spring 2022
     details: Community and Macro Social Work Theory and Practice section 504
     location: Graduate School of Social Work
@@ -301,13 +308,6 @@ teaching_exp:
       about college acclimation for first year students.
     location: Simmons University
     position: Co-Facilitator
-  - date: August 2024- Present
-    details: >-
-      Prepare and teach courses within the  Bachelor of Social Work (BSW) and
-      Master of Social Work (MSW) curricula with a focus on the social work
-      field practice courses and support.
-    location: 'University of Colorado Colorado Springs '
-    position: 'Clinical Assistant Professor '
 professional_exp:
   - date: 2018-present
     details:
