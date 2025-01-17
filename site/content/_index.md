@@ -42,6 +42,6 @@ social:
   linkedin: 'https://www.linkedin.com/in/anniezeandunbar/'
   twitter: 'https://twitter.com/anniezeanbean'
   wordpress: 'https://vocalfryblog.wordpress.com'
-cv: uploads/Dunbar_CV 2024_.pdf
+cv: uploads/Dunbar_CV 2025_Winter .pdf
 ---
 
