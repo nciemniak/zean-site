@@ -14,9 +14,12 @@ cv_order:
   - section_name: Teaching Interests
   - section_name: Research Interests
 education:
-  - date: June 2024 (expected)
+  - date: June 2024 (earned)
     degree: Doctor of Philosophy
-    details: ''
+    details: >-
+      Dissertation: The role of care practices, mutual aid, and racial formation
+      in Black newcomer practitioners’ lived experience within organizations: a
+      critical qualitative inquiry
     school: Graduate School of Social Work
     university: University of Denver
   - date: June 2015 (earned)
@@ -298,6 +301,13 @@ teaching_exp:
       about college acclimation for first year students.
     location: Simmons University
     position: Co-Facilitator
+  - date: August 2024- Present
+    details: >-
+      Prepare and teach courses within the  Bachelor of Social Work (BSW) and
+      Master of Social Work (MSW) curricula with a focus on the social work
+      field practice courses and support.
+    location: 'University of Colorado Colorado Springs '
+    position: 'Clinical Assistant Professor '
 professional_exp:
   - date: 2018-present
     details:
